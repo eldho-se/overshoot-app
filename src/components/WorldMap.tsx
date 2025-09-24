@@ -218,22 +218,15 @@ const WorldMap: React.FC<WorldMapProps> = ({ onCountrySelect, selectedCountry, y
     } as any;
   }, [mapData, selectedCountries]);
 
-    const zoomToEurope = () => {
+  const zoomToEurope = () => {
     const c = chartRef.current?.chart || chart;
     if (!c) return;
-    const mv = c.mapView as any;
-    const center: [number, number] = [10,58];
-    const zoom = 1; // close-in zoom for Europe
-
+    const mv = c.mapView;
 
     const coords = [4500, 8290] as const satisfies Highcharts.LonLatArray;
     if (mv && typeof mv.setView === 'function') {
-      console.log('Zooming to Europe:', { center, zoom });
-      mv.zoomBy(1.8, coords,[10000000000,58],animate);
-      return;
+      mv.zoomBy(2.1, coords,[10000000000,58],{duration: 700});
     }
-
-
   };
 
   const resetView = () => {
