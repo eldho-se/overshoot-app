@@ -199,7 +199,7 @@ const Home: React.FC = () => {
         <header className="mb-8">
           <h1 className="text-4xl font-bold tracking-tight text-white">{t.title}</h1>
           <p className="mt-2 text-slate-300">{t.description}</p>
-          <div className="absolute top-4 right-4 z-10 flex items-center gap-2 bg-slate-900/80 border border-slate-700/60 rounded-full px-3 py-1 shadow-md">
+          {/* <div className="absolute top-4 right-4 z-10 flex items-center gap-2 bg-slate-900/80 border border-slate-700/60 rounded-full px-3 py-1 shadow-md">
             <span className="text-slate-300 text-xl" aria-label="Language">
               <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" strokeWidth={2} stroke="currentColor" className="h-5 w-5">
                 <circle cx="12" cy="12" r="10" stroke="currentColor" strokeWidth="2" fill="none" />
@@ -213,7 +213,7 @@ const Home: React.FC = () => {
             >
               {language === 'en' ? 'EN' : 'DE'}
             </button>
-          </div>
+          </div> */}
 
         </header>
 
