@@ -9,6 +9,7 @@ import countries from "i18n-iso-countries";
 import enLocale from "i18n-iso-countries/langs/en.json";
 import { fetchJson, getApiBase } from "../lib/http";
 import labels from "./data";
+import { animate } from "highcharts";
 
 
 countries.registerLocale(enLocale);
@@ -217,16 +218,22 @@ const WorldMap: React.FC<WorldMapProps> = ({ onCountrySelect, selectedCountry, y
     } as any;
   }, [mapData, selectedCountries]);
 
-  const zoomToEurope = () => {
+    const zoomToEurope = () => {
     const c = chartRef.current?.chart || chart;
     if (!c) return;
-    const mv = c.mapView;
+    const mv = c.mapView as any;
+    const center: [number, number] = [10,58];
+    const zoom = 1; // close-in zoom for Europe
 
-    const center = [10, 54];
-    const zoom = 2.1;
+
+    const coords = [4500, 8290] as const satisfies Highcharts.LonLatArray;
     if (mv && typeof mv.setView === 'function') {
-      mv.setView(center, zoom);
+      console.log('Zooming to Europe:', { center, zoom });
+      mv.zoomBy(1.8, coords,[10000000000,58],animate);
+      return;
     }
+
+
   };
 
   const resetView = () => {
