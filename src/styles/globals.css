@@ -1,0 +1,9 @@
+@import "tailwindcss";
+
+/* Optional: custom CSS variables or utilities */
+:root {
+  color-scheme: dark;
+}
+
+/* App baseline tweaks */
+html, body, #__next { height: 100%; }
