@@ -225,7 +225,7 @@ const WorldMap: React.FC<WorldMapProps> = ({ onCountrySelect, selectedCountry, y
 
     const coords = [4500, 8290] as const satisfies Highcharts.LonLatArray;
     if (mv && typeof mv.setView === 'function') {
-      mv.zoomBy(2.1, coords,[10000000000,58],{duration: 700});
+      mv.zoomBy(1.8, coords,[10000000000,58],{duration: 700});
     }
   };
 
