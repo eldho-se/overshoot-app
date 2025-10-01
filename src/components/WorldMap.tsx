@@ -162,7 +162,7 @@ const WorldMap: React.FC<WorldMapProps> = ({ onCountrySelect, selectedCountry, y
       series: [
         {
           type: "map",
-          name: "EF per capita",
+          name: "Overshoot Day",
           mapData: worldMap,
           animation: false,
           data: mapData.map(point => ({
