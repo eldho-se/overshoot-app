@@ -1,8 +1,13 @@
 export function getApiBase(): string {
-  const envBase = (typeof process !== 'undefined' && (process.env as any)?.NEXT_PUBLIC_API_BASE) as string | undefined;
-  return envBase && envBase.length > 0
-    ? envBase.replace(/\/$/, '')
-    : 'https://overshoot-server-961082160702.us-central1.run.app';
+  if (typeof process !== 'undefined' && process.env) {
+    if (process.env.NODE_ENV === 'production') {
+      return process.env.NEXT_PUBLIC_API_PROD || 'https://overshoot-server-961082160702.us-central1.run.app';
+    } else {
+      return process.env.NEXT_PUBLIC_API_URL || 'http://127.0.0.1:8000';
+    }
+  }
+  // Fallback for unknown env
+  return 'http://127.0.0.1:8000';
 }
 
 export function getAuthHeaders(): HeadersInit {
@@ -12,6 +17,7 @@ export function getAuthHeaders(): HeadersInit {
     Authorization: apiKey ? `Bearer ${apiKey}` : '',
   } as HeadersInit;
 }
+// ...existing code...
 
 export async function fetchJson<T = any>(pathOrUrl: string, init?: RequestInit): Promise<T> {
   const isAbsolute = /^https?:\/\//i.test(pathOrUrl);

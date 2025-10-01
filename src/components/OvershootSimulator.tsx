@@ -1,5 +1,5 @@
 import React, { useMemo, useState } from 'react';
-import { getAuthHeaders } from '../lib/http';
+import { getApiBase, getAuthHeaders } from '../lib/http';
 import InfoButton from './Infobutton';
 import Card from './Card';
 
@@ -227,9 +227,7 @@ export default function OvershootSimulator() {
   }, [year]);
 
 
-  const API_BASE =
-    (typeof process !== 'undefined' && (process.env as any)?.NEXT_PUBLIC_API_BASE) ||
-    'https://overshoot-server-961082160702.us-central1.run.app/energy-split';
+  const API_BASE = getApiBase() + '/energy-split';
 
   const DEBOUNCE_MS = 250;
   const [loading, setLoading] = useState(false);

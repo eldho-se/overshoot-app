@@ -16,7 +16,7 @@ export default function CalculationPage() {
     let code = router.query.code ? String(router.query.code) : "79";
     code = code === "5001" ? "79" : code;
 
-    fetchJson(`https://overshoot-server-961082160702.us-central1.run.app/country/ct/${code}/2024?record=EFConsPerCap`)
+    fetchJson(`${apiBase}/country/ct/${code}/2024?record=EFConsPerCap`)
       .then((data) => {
         if (Array.isArray(data)) {
           setEfConsPerCap(data); 
@@ -28,7 +28,7 @@ export default function CalculationPage() {
         console.error("Error fetching EFConsPerCap data:", err);
       });
 
-    fetchJson("https://overshoot-server-961082160702.us-central1.run.app/country/ct/5001/2024?record=BiocapPerCap")
+    fetchJson(`${apiBase}/country/ct/5001/2024?record=BiocapPerCap`)
       .then((data) => {
         if (Array.isArray(data)) {
           setWorldBiocap(data); 

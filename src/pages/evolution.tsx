@@ -26,7 +26,8 @@ export default function EvolutionPage() {
     code = code==="5001" ? "79" : code;
 
   
-    fetchJson(`https://overshoot-server-961082160702.us-central1.run.app/country/ct/${code}?record=EFConsPerCap`)
+
+    fetchJson(`${apiBase}/country/ct/${code}?record=EFConsPerCap`)
       .then((data) => {
         if (Array.isArray(data)) {
           setEfConsPerCap(data.map((r: any) => ({ year: r.year, total: r.total })));
@@ -38,8 +39,7 @@ export default function EvolutionPage() {
         console.error("Error fetching EFConsPerCap data:", err);
       });
 
-  
-    fetchJson("https://overshoot-server-961082160702.us-central1.run.app/country/ct/5001?record=BiocapPerCap")
+    fetchJson(`${apiBase}/country/ct/5001?record=BiocapPerCap`)
       .then((data) => {
         if (Array.isArray(data)) {
           setWorldBiocap(data.map((r: any) => ({ year: r.year, total: r.total })));
@@ -50,7 +50,7 @@ export default function EvolutionPage() {
       .catch((err) => {
         console.error("Error fetching World BiocapPerCap data:", err);
       });
-    fetchJson("https://overshoot-server-961082160702.us-central1.run.app/country/ct/5001?record=EFConsPerCap")
+    fetchJson(`${apiBase}/country/ct/5001?record=EFConsPerCap`)
       .then((data) => {
         if (Array.isArray(data)) {
           setWorldEfCons(data.map((r: any) => ({ year: r.year, total: r.total })));
