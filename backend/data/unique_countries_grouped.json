@@ -1,0 +1,1142 @@
+{
+    "Historic": [
+        {
+            "countryName": "Sudan (former)",
+            "countryCode": "206"
+        },
+        {
+            "countryName": "USSR",
+            "countryCode": "228"
+        },
+        {
+            "countryName": "Libyan Arab Jamahiriya",
+            "countryCode": "124"
+        },
+        {
+            "countryName": "Serbia and Montenegro",
+            "countryCode": "186"
+        },
+        {
+            "countryName": "Czechoslovakia",
+            "countryCode": "51"
+        },
+        {
+            "countryName": "Ethiopia PDR",
+            "countryCode": "62"
+        },
+        {
+            "countryName": "Yugoslav SFR",
+            "countryCode": "248"
+        }
+    ],
+    "Continents": [
+        {
+            "countryName": "Africa",
+            "countryCode": "2000"
+        },
+        {
+            "countryName": "Asia",
+            "countryCode": "2001"
+        },
+        {
+            "countryName": "Europe",
+            "countryCode": "2002"
+        },
+        {
+            "countryName": "Latin America and the Caribbean",
+            "countryCode": "2003"
+        },
+        {
+            "countryName": "North America",
+            "countryCode": "2004"
+        },
+        {
+            "countryName": "Oceania",
+            "countryCode": "2005"
+        }
+    ],
+    "Regions": [
+        {
+            "countryName": "Caribbean",
+            "countryCode": "1001"
+        },
+        {
+            "countryName": "Central America",
+            "countryCode": "1002"
+        },
+        {
+            "countryName": "Central Asia",
+            "countryCode": "1003"
+        },
+        {
+            "countryName": "Eastern Africa",
+            "countryCode": "1004"
+        },
+        {
+            "countryName": "Eastern Asia",
+            "countryCode": "1005"
+        },
+        {
+            "countryName": "Eastern Europe",
+            "countryCode": "1006"
+        },
+        {
+            "countryName": "Melanesia",
+            "countryCode": "1007"
+        },
+        {
+            "countryName": "Middle Africa",
+            "countryCode": "1009"
+        },
+        {
+            "countryName": "Northern Africa",
+            "countryCode": "1011"
+        },
+        {
+            "countryName": "Northern Europe",
+            "countryCode": "1012"
+        },
+        {
+            "countryName": "South America",
+            "countryCode": "1014"
+        },
+        {
+            "countryName": "South-Eastern Asia",
+            "countryCode": "1015"
+        },
+        {
+            "countryName": "Southern Africa",
+            "countryCode": "1016"
+        },
+        {
+            "countryName": "Southern Asia",
+            "countryCode": "1017"
+        },
+        {
+            "countryName": "Southern Europe",
+            "countryCode": "1018"
+        },
+        {
+            "countryName": "Western Africa",
+            "countryCode": "1019"
+        },
+        {
+            "countryName": "Western Asia",
+            "countryCode": "1020"
+        },
+        {
+            "countryName": "Western Europe",
+            "countryCode": "1021"
+        }
+    ],
+    "Countries": [
+        {
+            "countryCode": "5001",
+            "countryName": "World",
+            "shortName": "World",
+            "abbr": "World",
+            "people": "people of the world"
+        },
+        {
+            "countryCode": "2",
+            "countryName": "Afghanistan",
+            "shortName": "Afghanistan",
+            "abbr": "Afghanistan",
+            "people": "Afghans"
+        },
+        {
+            "countryCode": "3",
+            "countryName": "Albania",
+            "shortName": "Albania",
+            "abbr": "Albania",
+            "people": "Albanians"
+        },
+        {
+            "countryCode": "4",
+            "countryName": "Algeria",
+            "shortName": "Algeria",
+            "abbr": "Algeria",
+            "people": "Algerians"
+        },
+        {
+            "countryCode": "9",
+            "countryName": "Argentina",
+            "shortName": "Argentina",
+            "abbr": "Argentina",
+            "people": "Argentinians"
+        },
+        {
+            "countryCode": "11",
+            "countryName": "Austria",
+            "shortName": "Austria",
+            "abbr": "Austria",
+            "people": "Austrians"
+        },
+        {
+            "countryCode": "14",
+            "countryName": "Barbados",
+            "shortName": "Barbados",
+            "abbr": "Barbados",
+            "people": "Barbadians"
+        },
+        {
+            "countryCode": "19",
+            "countryName": "Bolivia",
+            "shortName": "Bolivia",
+            "abbr": "Bolivia",
+            "people": "Bolivians"
+        },
+        {
+            "countryCode": "21",
+            "countryName": "Brazil",
+            "shortName": "Brazil",
+            "abbr": "Brazil",
+            "people": "Brazilians"
+        },
+        {
+            "countryCode": "28",
+            "countryName": "Myanmar",
+            "shortName": "Myanmar",
+            "abbr": "Myanmar",
+            "people": "Burmese"
+        },
+        {
+            "countryCode": "29",
+            "countryName": "Burundi",
+            "shortName": "Burundi",
+            "abbr": "Burundi",
+            "people": "Burundians"
+        },
+        {
+            "countryCode": "32",
+            "countryName": "Cameroon",
+            "shortName": "Cameroon",
+            "abbr": "Cameroon",
+            "people": "Cameroonians"
+        },
+        {
+            "countryCode": "33",
+            "countryName": "Canada",
+            "shortName": "Canada",
+            "abbr": "Canada",
+            "people": "Canadians"
+        },
+        {
+            "countryCode": "38",
+            "countryName": "Sri Lanka",
+            "shortName": "Sri Lanka",
+            "abbr": "Sri Lanka",
+            "people": "Sri Lankans"
+        },
+        {
+            "countryCode": "39",
+            "countryName": "Chad",
+            "shortName": "Chad",
+            "abbr": "Chad",
+            "people": "Chadians"
+        },
+        {
+            "countryCode": "40",
+            "countryName": "Chile",
+            "shortName": "Chile",
+            "abbr": "Chile",
+            "people": "Chileans"
+        },
+        {
+            "countryCode": "44",
+            "countryName": "Colombia",
+            "shortName": "Colombia",
+            "abbr": "Colombia",
+            "people": "Colombians"
+        },
+        {
+            "countryCode": "46",
+            "countryName": "Congo",
+            "shortName": "Congo",
+            "abbr": "Congo",
+            "people": "Congolese"
+        },
+        {
+            "countryCode": "48",
+            "countryName": "Costa Rica",
+            "shortName": "Costa Rica",
+            "abbr": "Costa Rica",
+            "people": "Costa Ricans"
+        },
+        {
+            "countryCode": "53",
+            "countryName": "Benin",
+            "shortName": "Benin",
+            "abbr": "Benin",
+            "people": "Beninese"
+        },
+        {
+            "countryCode": "54",
+            "countryName": "Denmark",
+            "shortName": "Denmark",
+            "abbr": "Denmark",
+            "people": "Danes"
+        },
+        {
+            "countryCode": "56",
+            "countryName": "Dominican Republic",
+            "shortName": "Dominican Republic",
+            "abbr": "Dominican Republic",
+            "people": "Dominicans"
+        },
+        {
+            "countryCode": "59",
+            "countryName": "Egypt",
+            "shortName": "Egypt",
+            "abbr": "Egypt",
+            "people": "Egyptians"
+        },
+        {
+            "countryCode": "60",
+            "countryName": "El Salvador",
+            "shortName": "El Salvador",
+            "abbr": "El Salvador",
+            "people": "Salvadorans"
+        },
+        {
+            "countryCode": "66",
+            "countryName": "Fiji",
+            "shortName": "Fiji",
+            "abbr": "Fiji",
+            "people": "Fijians"
+        },
+        {
+            "countryCode": "68",
+            "countryName": "France",
+            "shortName": "France",
+            "abbr": "France",
+            "people": "French"
+        },
+        {
+            "countryCode": "75",
+            "countryName": "Gambia",
+            "shortName": "Gambia",
+            "abbr": "Gambia",
+            "people": "Gambians"
+        },
+        {
+            "countryCode": "79",
+            "countryName": "Germany",
+            "shortName": "Germany",
+            "abbr": "Germany",
+            "people": "Germans"
+        },
+        {
+            "countryCode": "81",
+            "countryName": "Ghana",
+            "shortName": "Ghana",
+            "abbr": "Ghana",
+            "people": "Ghanaians"
+        },
+        {
+            "countryCode": "84",
+            "countryName": "Greece",
+            "shortName": "Greece",
+            "abbr": "Greece",
+            "people": "Greeks"
+        },
+        {
+            "countryCode": "89",
+            "countryName": "Guatemala",
+            "shortName": "Guatemala",
+            "abbr": "Guatemala",
+            "people": "Guatemalans"
+        },
+        {
+            "countryCode": "90",
+            "countryName": "Guinea",
+            "shortName": "Guinea",
+            "abbr": "Guinea",
+            "people": "Guineans"
+        },
+        {
+            "countryCode": "93",
+            "countryName": "Haiti",
+            "shortName": "Haiti",
+            "abbr": "Haiti",
+            "people": "Haitians"
+        },
+        {
+            "countryCode": "97",
+            "countryName": "Hungary",
+            "shortName": "Hungary",
+            "abbr": "Hungary",
+            "people": "Hungarians"
+        },
+        {
+            "countryCode": "100",
+            "countryName": "India",
+            "shortName": "India",
+            "abbr": "India",
+            "people": "Indians"
+        },
+        {
+            "countryCode": "101",
+            "countryName": "Indonesia",
+            "shortName": "Indonesia",
+            "abbr": "Indonesia",
+            "people": "Indonesians"
+        },
+        {
+            "countryCode": "105",
+            "countryName": "Israel",
+            "shortName": "Israel",
+            "abbr": "Israel",
+            "people": "Israelis"
+        },
+        {
+            "countryCode": "106",
+            "countryName": "Italy",
+            "shortName": "Italy",
+            "abbr": "Italy",
+            "people": "Italians"
+        },
+        {
+            "countryCode": "110",
+            "countryName": "Japan",
+            "shortName": "Japan",
+            "abbr": "Japan",
+            "people": "Japanese"
+        },
+        {
+            "countryCode": "114",
+            "countryName": "Kenya",
+            "shortName": "Kenya",
+            "abbr": "Kenya",
+            "people": "Kenyans"
+        },
+        {
+            "countryCode": "117",
+            "countryName": "Korea, Republic of",
+            "shortName": "South Korea",
+            "abbr": "ROK",
+            "people": "South Koreans"
+        },
+        {
+            "countryCode": "123",
+            "countryName": "Liberia",
+            "shortName": "Liberia",
+            "abbr": "Liberia",
+            "people": "Liberians"
+        },
+        {
+            "countryCode": "129",
+            "countryName": "Madagascar",
+            "shortName": "Madagascar",
+            "abbr": "Madagascar",
+            "people": "Malagasy"
+        },
+        {
+            "countryCode": "133",
+            "countryName": "Mali",
+            "shortName": "Mali",
+            "abbr": "Mali",
+            "people": "Malians"
+        },
+        {
+            "countryCode": "138",
+            "countryName": "Mexico",
+            "shortName": "Mexico",
+            "abbr": "Mexico",
+            "people": "Mexicans"
+        },
+        {
+            "countryCode": "141",
+            "countryName": "Mongolia",
+            "shortName": "Mongolia",
+            "abbr": "Mongolia",
+            "people": "Mongolians"
+        },
+        {
+            "countryCode": "144",
+            "countryName": "Mozambique",
+            "shortName": "Mozambique",
+            "abbr": "Mozambique",
+            "people": "Mozambicans"
+        },
+        {
+            "countryCode": "149",
+            "countryName": "Nepal",
+            "shortName": "Nepal",
+            "abbr": "Nepal",
+            "people": "Nepalese"
+        },
+        {
+            "countryCode": "150",
+            "countryName": "Netherlands",
+            "shortName": "Netherlands",
+            "abbr": "Netherlands",
+            "people": "Dutch"
+        },
+        {
+            "countryCode": "157",
+            "countryName": "Nicaragua",
+            "shortName": "Nicaragua",
+            "abbr": "Nicaragua",
+            "people": "Nicaraguans"
+        },
+        {
+            "countryCode": "158",
+            "countryName": "Niger",
+            "shortName": "Niger",
+            "abbr": "Niger",
+            "people": "Nigeriens"
+        },
+        {
+            "countryCode": "159",
+            "countryName": "Nigeria",
+            "shortName": "Nigeria",
+            "abbr": "Nigeria",
+            "people": "Nigerians"
+        },
+        {
+            "countryCode": "162",
+            "countryName": "Norway",
+            "shortName": "Norway",
+            "abbr": "Norway",
+            "people": "Norwegians"
+        },
+        {
+            "countryCode": "165",
+            "countryName": "Pakistan",
+            "shortName": "Pakistan",
+            "abbr": "Pakistan",
+            "people": "Pakistanis"
+        },
+        {
+            "countryCode": "170",
+            "countryName": "Peru",
+            "shortName": "Peru",
+            "abbr": "Peru",
+            "people": "Peruvians"
+        },
+        {
+            "countryCode": "171",
+            "countryName": "Philippines",
+            "shortName": "Philippines",
+            "abbr": "Philippines",
+            "people": "Filipinos"
+        },
+        {
+            "countryCode": "173",
+            "countryName": "Poland",
+            "shortName": "Poland",
+            "abbr": "Poland",
+            "people": "Poles"
+        },
+        {
+            "countryCode": "174",
+            "countryName": "Portugal",
+            "shortName": "Portugal",
+            "abbr": "Portugal",
+            "people": "Portuguese"
+        },
+        {
+            "countryCode": "183",
+            "countryName": "Romania",
+            "shortName": "Romania",
+            "abbr": "Romania",
+            "people": "Romanians"
+        },
+        {
+            "countryCode": "184",
+            "countryName": "Rwanda",
+            "shortName": "Rwanda",
+            "abbr": "Rwanda",
+            "people": "Rwandans"
+        },
+        {
+            "countryCode": "201",
+            "countryName": "Somalia",
+            "shortName": "Somalia",
+            "abbr": "Somalia",
+            "people": "Somalis"
+        },
+        {
+            "countryCode": "202",
+            "countryName": "South Africa",
+            "shortName": "South Africa",
+            "abbr": "South Africa",
+            "people": "South Africans"
+        },
+        {
+            "countryCode": "203",
+            "countryName": "Spain",
+            "shortName": "Spain",
+            "abbr": "Spain",
+            "people": "Spaniards"
+        },
+        {
+            "countryCode": "210",
+            "countryName": "Sweden",
+            "shortName": "Sweden",
+            "abbr": "Sweden",
+            "people": "Swedes"
+        },
+        {
+            "countryCode": "211",
+            "countryName": "Switzerland",
+            "shortName": "Switzerland",
+            "abbr": "Switzerland",
+            "people": "Swiss"
+        },
+        {
+            "countryCode": "216",
+            "countryName": "Thailand",
+            "shortName": "Thailand",
+            "abbr": "Thailand",
+            "people": "Thais"
+        },
+        {
+            "countryCode": "217",
+            "countryName": "Togo",
+            "shortName": "Togo",
+            "abbr": "Togo",
+            "people": "Togolese"
+        },
+        {
+            "countryCode": "223",
+            "countryName": "Türkiye",
+            "shortName": "Türkiye",
+            "abbr": "Türkiye",
+            "people": "Turks"
+        },
+        {
+            "countryCode": "226",
+            "countryName": "Uganda",
+            "shortName": "Uganda",
+            "abbr": "Uganda",
+            "people": "Ugandans"
+        },
+        {
+            "countryCode": "229",
+            "countryName": "United Kingdom",
+            "shortName": "UK",
+            "abbr": "UK",
+            "people": "British"
+        },
+        {
+            "countryCode": "231",
+            "countryName": "United States of America",
+            "shortName": "USA",
+            "abbr": "USA",
+            "people": "Americans"
+        },
+        {
+            "countryCode": "233",
+            "countryName": "Burkina Faso",
+            "shortName": "Burkina Faso",
+            "abbr": "Burkina Faso",
+            "people": "Burkinabè"
+        },
+        {
+            "countryCode": "236",
+            "countryName": "Venezuela, Bolivarian Republic of",
+            "shortName": "Venezuela",
+            "abbr": "Venezuela",
+            "people": "Venezuelans"
+        },
+        {
+            "countryCode": "237",
+            "countryName": "Viet Nam",
+            "shortName": "Vietnam",
+            "abbr": "Vietnam",
+            "people": "Vietnamese"
+        },
+        {
+            "countryCode": "250",
+            "countryName": "Congo, Democratic Republic of",
+            "shortName": "Congo, Democratic Republic of",
+            "abbr": "Congo, Democratic Republic of",
+            "people": "Congolese"
+        },
+        {
+            "countryCode": "255",
+            "countryName": "Belgium",
+            "shortName": "Belgium",
+            "abbr": "Belgium",
+            "people": "Belgians"
+        },
+        {
+            "countryCode": "256",
+            "countryName": "Luxembourg",
+            "shortName": "Luxembourg",
+            "abbr": "Luxembourg",
+            "people": "Luxembourgers"
+        },
+        {
+            "countryCode": "351",
+            "countryName": "China",
+            "shortName": "China",
+            "abbr": "China",
+            "people": "Chinese"
+        },
+        {
+            "countryCode": "130",
+            "countryName": "Malawi",
+            "shortName": "Malawi",
+            "abbr": "Malawi",
+            "people": "Malawians"
+        },
+        {
+            "countryCode": "215",
+            "countryName": "Tanzania, United Republic of",
+            "shortName": "Tanzania",
+            "abbr": "Tanzania",
+            "people": "Tanzanians"
+        },
+        {
+            "countryCode": "166",
+            "countryName": "Panama",
+            "shortName": "Panama",
+            "abbr": "Panama",
+            "people": "Panamanians"
+        },
+        {
+            "countryCode": "175",
+            "countryName": "Guinea-Bissau",
+            "shortName": "Guinea-Bissau",
+            "abbr": "Guinea-Bissau",
+            "people": "Bissau-Guineans"
+        },
+        {
+            "countryCode": "12",
+            "countryName": "Bahamas",
+            "shortName": "Bahamas",
+            "abbr": "Bahamas",
+            "people": "Bahamians"
+        },
+        {
+            "countryCode": "16",
+            "countryName": "Bangladesh",
+            "shortName": "Bangladesh",
+            "abbr": "Bangladesh",
+            "people": "Bangladeshis"
+        },
+        {
+            "countryCode": "18",
+            "countryName": "Bhutan",
+            "shortName": "Bhutan",
+            "abbr": "Bhutan",
+            "people": "Bhutanese"
+        },
+        {
+            "countryCode": "13",
+            "countryName": "Bahrain",
+            "shortName": "Bahrain",
+            "abbr": "Bahrain",
+            "people": "Bahrainis"
+        },
+        {
+            "countryCode": "179",
+            "countryName": "Qatar",
+            "shortName": "Qatar",
+            "abbr": "Qatar",
+            "people": "Qataris"
+        },
+        {
+            "countryCode": "221",
+            "countryName": "Oman",
+            "shortName": "Oman",
+            "abbr": "Oman",
+            "people": "Omanis"
+        },
+        {
+            "countryCode": "1",
+            "countryName": "Armenia",
+            "shortName": "Armenia",
+            "abbr": "Armenia",
+            "people": "Armenians"
+        },
+        {
+            "countryCode": "57",
+            "countryName": "Belarus",
+            "shortName": "Belarus",
+            "abbr": "Belarus",
+            "people": "Belarusians"
+        },
+        {
+            "countryCode": "63",
+            "countryName": "Estonia",
+            "shortName": "Estonia",
+            "abbr": "Estonia",
+            "people": "Estonians"
+        },
+        {
+            "countryCode": "80",
+            "countryName": "Bosnia and Herzegovina",
+            "shortName": "Bosnia & Herzegovina",
+            "abbr": "BiH",
+            "people": "Bosnians"
+        },
+        {
+            "countryCode": "98",
+            "countryName": "Croatia",
+            "shortName": "Croatia",
+            "abbr": "Croatia",
+            "people": "Croatians"
+        },
+        {
+            "countryCode": "119",
+            "countryName": "Latvia",
+            "shortName": "Latvia",
+            "abbr": "Latvia",
+            "people": "Latvians"
+        },
+        {
+            "countryCode": "126",
+            "countryName": "Lithuania",
+            "shortName": "Lithuania",
+            "abbr": "Lithuania",
+            "people": "Lithuanians"
+        },
+        {
+            "countryCode": "185",
+            "countryName": "Russian Federation",
+            "shortName": "Russia",
+            "abbr": "Russia",
+            "people": "Russians"
+        },
+        {
+            "countryCode": "154",
+            "countryName": "Republic of North Macedonia",
+            "shortName": "North Macedonia",
+            "abbr": "N. Macedonia",
+            "people": "Macedonians"
+        },
+        {
+            "countryCode": "167",
+            "countryName": "Czech Republic",
+            "shortName": "Czechia",
+            "abbr": "Czechia",
+            "people": "Czechs"
+        },
+        {
+            "countryCode": "178",
+            "countryName": "Eritrea",
+            "shortName": "Eritrea",
+            "abbr": "Eritrea",
+            "people": "Eritreans"
+        },
+        {
+            "countryCode": "199",
+            "countryName": "Slovakia",
+            "shortName": "Slovakia",
+            "abbr": "Slovakia",
+            "people": "Slovaks"
+        },
+        {
+            "countryCode": "238",
+            "countryName": "Ethiopia",
+            "shortName": "Ethiopia",
+            "abbr": "Ethiopia",
+            "people": "Ethiopians"
+        },
+        {
+            "countryCode": "113",
+            "countryName": "Kyrgyzstan",
+            "shortName": "Kyrgyzstan",
+            "abbr": "Kyrgyzstan",
+            "people": "Kyrgyz"
+        },
+        {
+            "countryCode": "118",
+            "countryName": "Kuwait",
+            "shortName": "Kuwait",
+            "abbr": "Kuwait",
+            "people": "Kuwaitis"
+        },
+        {
+            "countryCode": "251",
+            "countryName": "Zambia",
+            "shortName": "Zambia",
+            "abbr": "Zambia",
+            "people": "Zambians"
+        },
+        {
+            "countryCode": "272",
+            "countryName": "Serbia",
+            "shortName": "Serbia",
+            "abbr": "Serbia",
+            "people": "Serbs"
+        },
+        {
+            "countryCode": "273",
+            "countryName": "Montenegro",
+            "shortName": "Montenegro",
+            "abbr": "Montenegro",
+            "people": "Montenegrins"
+        },
+        {
+            "countryCode": "276",
+            "countryName": "Sudan",
+            "shortName": "Sudan",
+            "abbr": "Sudan",
+            "people": "Sudanese"
+        },
+        {
+            "countryCode": "7",
+            "countryName": "Angola",
+            "shortName": "Angola",
+            "abbr": "Angola",
+            "people": "Angolans"
+        },
+        {
+            "countryCode": "10",
+            "countryName": "Australia",
+            "shortName": "Australia",
+            "abbr": "Australia",
+            "people": "Australians"
+        },
+        {
+            "countryCode": "27",
+            "countryName": "Bulgaria",
+            "shortName": "Bulgaria",
+            "abbr": "Bulgaria",
+            "people": "Bulgarians"
+        },
+        {
+            "countryCode": "37",
+            "countryName": "Central African Republic",
+            "shortName": "Central African Rep.",
+            "abbr": "CAR",
+            "people": "Central Africans"
+        },
+        {
+            "countryCode": "67",
+            "countryName": "Finland",
+            "shortName": "Finland",
+            "abbr": "Finland",
+            "people": "Finns"
+        },
+        {
+            "countryCode": "74",
+            "countryName": "Gabon",
+            "shortName": "Gabon",
+            "abbr": "Gabon",
+            "people": "Gabonese"
+        },
+        {
+            "countryCode": "102",
+            "countryName": "Iran, Islamic Republic of",
+            "shortName": "Iran",
+            "abbr": "Iran",
+            "people": "Iranians"
+        },
+        {
+            "countryCode": "103",
+            "countryName": "Iraq",
+            "shortName": "Iraq",
+            "abbr": "Iraq",
+            "people": "Iraqis"
+        },
+        {
+            "countryCode": "104",
+            "countryName": "Ireland",
+            "shortName": "Ireland",
+            "abbr": "Ireland",
+            "people": "Irish"
+        },
+        {
+            "countryCode": "121",
+            "countryName": "Lebanon",
+            "shortName": "Lebanon",
+            "abbr": "Lebanon",
+            "people": "Lebanese"
+        },
+        {
+            "countryCode": "131",
+            "countryName": "Malaysia",
+            "shortName": "Malaysia",
+            "abbr": "Malaysia",
+            "people": "Malaysians"
+        },
+        {
+            "countryCode": "134",
+            "countryName": "Malta",
+            "shortName": "Malta",
+            "abbr": "Malta",
+            "people": "Maltese"
+        },
+        {
+            "countryCode": "136",
+            "countryName": "Mauritania",
+            "shortName": "Mauritania",
+            "abbr": "Mauritania",
+            "people": "Mauritanians"
+        },
+        {
+            "countryCode": "143",
+            "countryName": "Morocco",
+            "shortName": "Morocco",
+            "abbr": "Morocco",
+            "people": "Moroccans"
+        },
+        {
+            "countryCode": "147",
+            "countryName": "Namibia",
+            "shortName": "Namibia",
+            "abbr": "Namibia",
+            "people": "Namibians"
+        },
+        {
+            "countryCode": "168",
+            "countryName": "Papua New Guinea",
+            "shortName": "Papua New Guinea",
+            "abbr": "PNG",
+            "people": "Papua New Guineans"
+        },
+        {
+            "countryCode": "181",
+            "countryName": "Zimbabwe",
+            "shortName": "Zimbabwe",
+            "abbr": "Zimbabwe",
+            "people": "Zimbabweans"
+        },
+        {
+            "countryCode": "189",
+            "countryName": "Saint Lucia",
+            "shortName": "St. Lucia",
+            "abbr": "St. Lucia",
+            "people": "Saint Lucians"
+        },
+        {
+            "countryCode": "195",
+            "countryName": "Senegal",
+            "shortName": "Senegal",
+            "abbr": "Senegal",
+            "people": "Senegalese"
+        },
+        {
+            "countryCode": "197",
+            "countryName": "Sierra Leone",
+            "shortName": "Sierra Leone",
+            "abbr": "Sierra Leone",
+            "people": "Sierra Leoneans"
+        },
+        {
+            "countryCode": "222",
+            "countryName": "Tunisia",
+            "shortName": "Tunisia",
+            "abbr": "Tunisia",
+            "people": "Tunisians"
+        },
+        {
+            "countryCode": "249",
+            "countryName": "Yemen",
+            "shortName": "Yemen",
+            "abbr": "Yemen",
+            "people": "Yemenis"
+        },
+        {
+            "countryCode": "20",
+            "countryName": "Botswana",
+            "shortName": "Botswana",
+            "abbr": "Botswana",
+            "people": "Botswanans"
+        },
+        {
+            "countryCode": "220",
+            "countryName": "Trinidad and Tobago",
+            "shortName": "Trinidad & Tobago",
+            "abbr": "T&T",
+            "people": "Trinidadians and Tobagonians"
+        },
+        {
+            "countryCode": "209",
+            "countryName": "Eswatini",
+            "shortName": "Eswatini",
+            "abbr": "Eswatini",
+            "people": "Swazi"
+        },
+        {
+            "countryCode": "73",
+            "countryName": "Georgia",
+            "shortName": "Georgia",
+            "abbr": "Georgia",
+            "people": "Georgians"
+        },
+        {
+            "countryCode": "208",
+            "countryName": "Tajikistan",
+            "shortName": "Tajikistan",
+            "abbr": "Tajikistan",
+            "people": "Tajiks"
+        },
+        {
+            "countryCode": "213",
+            "countryName": "Turkmenistan",
+            "shortName": "Turkmenistan",
+            "abbr": "Turkmenistan",
+            "people": "Turkmen"
+        },
+        {
+            "countryCode": "235",
+            "countryName": "Uzbekistan",
+            "shortName": "Uzbekistan",
+            "abbr": "Uzbekistan",
+            "people": "Uzbeks"
+        },
+        {
+            "countryCode": "52",
+            "countryName": "Azerbaijan",
+            "shortName": "Azerbaijan",
+            "abbr": "Azerbaijan",
+            "people": "Azerbaijanis"
+        },
+        {
+            "countryCode": "25",
+            "countryName": "Solomon Islands",
+            "shortName": "Solomon Islands",
+            "abbr": "Solomon Islands",
+            "people": "Solomon Islanders"
+        },
+        {
+            "countryCode": "61",
+            "countryName": "Equatorial Guinea",
+            "shortName": "Equatorial Guinea",
+            "abbr": "Eq. Guinea",
+            "people": "Equatoguineans"
+        },
+        {
+            "countryCode": "91",
+            "countryName": "Guyana",
+            "shortName": "Guyana",
+            "abbr": "Guyana",
+            "people": "Guyanese"
+        },
+        {
+            "countryCode": "108",
+            "countryName": "Kazakhstan",
+            "shortName": "Kazakhstan",
+            "abbr": "Kazakhstan",
+            "people": "Kazakhs"
+        },
+        {
+            "countryCode": "112",
+            "countryName": "Jordan",
+            "shortName": "Jordan",
+            "abbr": "Jordan",
+            "people": "Jordanians"
+        },
+        {
+            "countryCode": "194",
+            "countryName": "Saudi Arabia",
+            "shortName": "Saudi Arabia",
+            "abbr": "KSA",
+            "people": "Saudis"
+        },
+        {
+            "countryCode": "207",
+            "countryName": "Suriname",
+            "shortName": "Suriname",
+            "abbr": "Suriname",
+            "people": "Surinamese"
+        }
+    ]
+}

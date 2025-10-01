@@ -1,0 +1,17 @@
+
+fastapi==0.116.1
+uvicorn==0.23.2
+gunicorn==23.0.0
+pandas==2.3.2
+numpy==2.3.2
+joblib==1.5.2
+prophet==1.1.7
+scikit-learn==1.7.2
+matplotlib==3.10.6
+holidays==0.80
+cmdstanpy==1.2.5
+tqdm==4.67.1
+importlib_resources==6.5.2
+threadpoolctl==3.6.0
+plotly==6.3.0
+python-dotenv==1.0.1

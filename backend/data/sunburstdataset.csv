@@ -1,0 +1,91 @@
+Main Category,Energy Source,Year,Value (PJ)
+Agriculture and Construction,Hard Coal,2024,3.4
+Agriculture and Construction,Lignite,2024,66.5
+Agriculture and Construction,Mineral oils,2024,11.3
+Agriculture and Construction,Gases,2024,7.5
+Agriculture and Construction,Natural Gas ,2024,13.9
+Agriculture and Construction,Renewable Energy,2024,4.1
+Agriculture and Construction,Other Energy Sources,2024,0.2
+Agriculture and Construction,Electricity,2024,27.8
+Agriculture and Construction,District heating,2024,16.1
+Industry,Hard Coal,2024,299
+Industry,Lignite,2024,60
+Industry,Mineral oils,2024,94
+Industry,Gases,2024,809
+Industry,Natural Gas ,2024,694
+Industry,Renewable Energy,2024,116
+Industry,Other Energy Sources,2024,74
+Industry,Electricity,2024,677
+Industry,District heating,2024,142
+Residential,Hard Coal,2024,3
+Residential,Lignite,2024,6
+Residential,Mineral oils,2024,410
+Residential,Gases,2024,809
+Residential,Natural Gas ,2024,809
+Residential,Renewable Energy,2024,374
+Residential,Other Energy Sources,2024,0
+Residential,Electricity,2024,479
+Residential,District heating,2024,191
+Commercial Services,Hard Coal,2024,1
+Commercial Services,Lignite,2024,0
+Commercial Services,Mineral oils,2024,178
+Commercial Services,Gases,2024,333
+Commercial Services,Natural Gas ,2024,333
+Commercial Services,Renewable Energy,2024,145
+Commercial Services,Other Energy Sources,2024,0
+Commercial Services,Electricity,2024,445
+Commercial Services,District heating,2024,21
+Transport,Hard Coal,2024,0
+Transport,Lignite,2024,0
+Transport,Mineral oils,2024,2274
+Transport,Gases,2024,2
+Transport,Natural Gas ,2024,2
+Transport,Renewable Energy,2024,116
+Transport,Other Energy Sources,2024,0
+Transport,Electricity,2024,61
+Transport,District heating,2024,0
+Agriculture and Construction,Hard Coal,2023,3.4
+Agriculture and Construction,Lignite,2023,65.9
+Agriculture and Construction,Mineral oils,2023,11.4
+Agriculture and Construction,Gases,2023,7.5
+Agriculture and Construction,Natural Gas ,2023,13.9
+Agriculture and Construction,Renewable Energy,2023,4.9
+Agriculture and Construction,Other Energy Sources,2023,0.2
+Agriculture and Construction,Electricity,2023,27.9
+Agriculture and Construction,District heating,2023,16.1
+Industry,Hard Coal,2023,275
+Industry,Lignite,2023,57
+Industry,Mineral oils,2023,95
+Industry,Gases,2023,778
+Industry,Natural Gas ,2023,667
+Industry,Renewable Energy,2023,116
+Industry,Other Energy Sources,2023,74
+Industry,Electricity,2023,669
+Industry,District heating,2023,150
+Residential,Hard Coal,2023,3
+Residential,Lignite,2023,9
+Residential,Mineral oils,2023,427
+Residential,Gases,2023,813
+Residential,Natural Gas ,2023,813
+Residential,Renewable Energy,2023,363
+Residential,Other Energy Sources,2023,0
+Residential,Electricity,2023,473
+Residential,District heating,2023,188
+Commercial Services,Hard Coal,2023,1
+Commercial Services,Lignite,2023,0
+Commercial Services,Mineral oils,2023,179
+Commercial Services,Gases,2023,335
+Commercial Services,Natural Gas ,2023,335
+Commercial Services,Renewable Energy,2023,144
+Commercial Services,Other Energy Sources,2023,0
+Commercial Services,Electricity,2023,436
+Commercial Services,District heating,2023,22
+Transport,Hard Coal,2023,0
+Transport,Lignite,2023,0
+Transport,Mineral oils,2023,2302
+Transport,Gases,2023,7
+Transport,Natural Gas ,2023,7
+Transport,Renewable Energy,2023,132
+Transport,Other Energy Sources,2023,0
+Transport,Electricity,2023,58
+Transport,District heating,2023,0

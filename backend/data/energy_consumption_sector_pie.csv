@@ -1,0 +1,1121 @@
+Year,Sector,Energy_source,PJ
+1990,Agriculture,District heat,0.0
+1990,Agriculture,Electricity,0.0
+1990,Agriculture,Hard coal,0.0
+1990,Agriculture,Lignite,0.0
+1990,Agriculture,Natural gas & LPG,0.0
+1990,Agriculture,Other,0.0
+1990,Agriculture,Petroleum,0.0
+1990,Agriculture,Renewables,0.0
+1990,Building,District heat,282.0
+1990,Building,Electricity,841.0
+1990,Building,Hard coal,70.0
+1990,Building,Lignite,607.0
+1990,Building,Natural gas & LPG,827.0
+1990,Building,Other,0.0
+1990,Building,Petroleum,1381.0
+1990,Building,Renewables,40.0
+1990,Industry,District heat,101.0
+1990,Industry,Electricity,748.0
+1990,Industry,Hard coal,501.0
+1990,Industry,Lignite,368.0
+1990,Industry,Natural gas & LPG,714.0
+1990,Industry,Other,0.0
+1990,Industry,Petroleum,351.0
+1990,Industry,Renewables,15.0
+1990,Transportation,District heat,0.0
+1990,Transportation,Electricity,49.0
+1990,Transportation,Hard coal,1.0
+1990,Transportation,Lignite,0.0
+1990,Transportation,Natural gas & LPG,0.0
+1990,Transportation,Other,0.0
+1990,Transportation,Petroleum,2329.0
+1990,Transportation,Renewables,0.0
+1991,Agriculture,District heat,0.0
+1991,Agriculture,Electricity,0.0
+1991,Agriculture,Hard coal,0.0
+1991,Agriculture,Lignite,0.0
+1991,Agriculture,Natural gas & LPG,0.0
+1991,Agriculture,Other,0.0
+1991,Agriculture,Petroleum,0.0
+1991,Agriculture,Renewables,0.0
+1991,Building,District heat,293.0
+1991,Building,Electricity,862.0
+1991,Building,Hard coal,81.0
+1991,Building,Lignite,359.0
+1991,Building,Natural gas & LPG,978.0
+1991,Building,Other,0.0
+1991,Building,Petroleum,1568.0
+1991,Building,Renewables,39.0
+1991,Industry,District heat,85.0
+1991,Industry,Electricity,698.0
+1991,Industry,Hard coal,450.0
+1991,Industry,Lignite,196.0
+1991,Industry,Natural gas & LPG,709.0
+1991,Industry,Other,0.0
+1991,Industry,Petroleum,387.0
+1991,Industry,Renewables,5.0
+1991,Transportation,District heat,0.0
+1991,Transportation,Electricity,55.0
+1991,Transportation,Hard coal,1.0
+1991,Transportation,Lignite,0.0
+1991,Transportation,Natural gas & LPG,0.0
+1991,Transportation,Other,0.0
+1991,Transportation,Petroleum,2372.0
+1991,Transportation,Renewables,0.0
+1992,Agriculture,District heat,0.0
+1992,Agriculture,Electricity,0.0
+1992,Agriculture,Hard coal,0.0
+1992,Agriculture,Lignite,0.0
+1992,Agriculture,Natural gas & LPG,0.0
+1992,Agriculture,Other,0.0
+1992,Agriculture,Petroleum,0.0
+1992,Agriculture,Renewables,0.0
+1992,Building,District heat,287.0
+1992,Building,Electricity,867.0
+1992,Building,Hard coal,64.0
+1992,Building,Lignite,221.0
+1992,Building,Natural gas & LPG,1001.0
+1992,Building,Other,0.0
+1992,Building,Petroleum,1519.0
+1992,Building,Renewables,38.0
+1992,Industry,District heat,69.0
+1992,Industry,Electricity,682.0
+1992,Industry,Hard coal,419.0
+1992,Industry,Lignite,131.0
+1992,Industry,Natural gas & LPG,723.0
+1992,Industry,Other,0.0
+1992,Industry,Petroleum,390.0
+1992,Industry,Renewables,6.0
+1992,Transportation,District heat,0.0
+1992,Transportation,Electricity,54.0
+1992,Transportation,Hard coal,1.0
+1992,Transportation,Lignite,0.0
+1992,Transportation,Natural gas & LPG,0.0
+1992,Transportation,Other,0.0
+1992,Transportation,Petroleum,2468.0
+1992,Transportation,Renewables,0.0
+1993,Agriculture,District heat,0.0
+1993,Agriculture,Electricity,0.0
+1993,Agriculture,Hard coal,0.0
+1993,Agriculture,Lignite,0.0
+1993,Agriculture,Natural gas & LPG,0.0
+1993,Agriculture,Other,0.0
+1993,Agriculture,Petroleum,0.0
+1993,Agriculture,Renewables,0.0
+1993,Building,District heat,287.0
+1993,Building,Electricity,883.0
+1993,Building,Hard coal,61.0
+1993,Building,Lignite,184.0
+1993,Building,Natural gas & LPG,1130.0
+1993,Building,Other,0.0
+1993,Building,Petroleum,1592.0
+1993,Building,Renewables,39.0
+1993,Industry,District heat,68.0
+1993,Industry,Electricity,649.0
+1993,Industry,Hard coal,367.0
+1993,Industry,Lignite,110.0
+1993,Industry,Natural gas & LPG,721.0
+1993,Industry,Other,0.0
+1993,Industry,Petroleum,371.0
+1993,Industry,Renewables,14.0
+1993,Transportation,District heat,0.0
+1993,Transportation,Electricity,54.0
+1993,Transportation,Hard coal,0.0
+1993,Transportation,Lignite,0.0
+1993,Transportation,Natural gas & LPG,0.0
+1993,Transportation,Other,0.0
+1993,Transportation,Petroleum,2542.0
+1993,Transportation,Renewables,0.0
+1994,Agriculture,District heat,0.0
+1994,Agriculture,Electricity,0.0
+1994,Agriculture,Hard coal,0.0
+1994,Agriculture,Lignite,0.0
+1994,Agriculture,Natural gas & LPG,0.0
+1994,Agriculture,Other,0.0
+1994,Agriculture,Petroleum,0.0
+1994,Agriculture,Renewables,0.0
+1994,Building,District heat,279.0
+1994,Building,Electricity,884.0
+1994,Building,Hard coal,54.0
+1994,Building,Lignite,123.0
+1994,Building,Natural gas & LPG,1148.0
+1994,Building,Other,0.0
+1994,Building,Petroleum,1539.0
+1994,Building,Renewables,56.0
+1994,Industry,District heat,70.0
+1994,Industry,Electricity,666.0
+1994,Industry,Hard coal,392.0
+1994,Industry,Lignite,98.0
+1994,Industry,Natural gas & LPG,734.0
+1994,Industry,Other,0.0
+1994,Industry,Petroleum,360.0
+1994,Industry,Renewables,12.0
+1994,Transportation,District heat,0.0
+1994,Transportation,Electricity,55.0
+1994,Transportation,Hard coal,0.0
+1994,Transportation,Lignite,0.0
+1994,Transportation,Natural gas & LPG,0.0
+1994,Transportation,Other,0.0
+1994,Transportation,Petroleum,2497.0
+1994,Transportation,Renewables,0.0
+1995,Agriculture,District heat,0.0
+1995,Agriculture,Electricity,0.0
+1995,Agriculture,Hard coal,0.0
+1995,Agriculture,Lignite,0.0
+1995,Agriculture,Natural gas & LPG,0.0
+1995,Agriculture,Other,0.0
+1995,Agriculture,Petroleum,0.0
+1995,Agriculture,Renewables,0.0
+1995,Building,District heat,296.0
+1995,Building,Electricity,905.0
+1995,Building,Hard coal,56.0
+1995,Building,Lignite,97.0
+1995,Building,Natural gas & LPG,1278.0
+1995,Building,Other,0.0
+1995,Building,Petroleum,1502.0
+1995,Building,Renewables,98.0
+1995,Industry,District heat,70.0
+1995,Industry,Electricity,686.0
+1995,Industry,Hard coal,398.0
+1995,Industry,Lignite,81.0
+1995,Industry,Natural gas & LPG,747.0
+1995,Industry,Other,0.0
+1995,Industry,Petroleum,346.0
+1995,Industry,Renewables,10.0
+1995,Transportation,District heat,0.0
+1995,Transportation,Electricity,58.0
+1995,Transportation,Hard coal,0.0
+1995,Transportation,Lignite,0.0
+1995,Transportation,Natural gas & LPG,0.0
+1995,Transportation,Other,0.0
+1995,Transportation,Petroleum,2554.0
+1995,Transportation,Renewables,2.0
+1996,Agriculture,District heat,0.0
+1996,Agriculture,Electricity,0.0
+1996,Agriculture,Hard coal,0.0
+1996,Agriculture,Lignite,0.0
+1996,Agriculture,Natural gas & LPG,0.0
+1996,Agriculture,Other,0.0
+1996,Agriculture,Petroleum,0.0
+1996,Agriculture,Renewables,0.0
+1996,Building,District heat,276.0
+1996,Building,Electricity,938.0
+1996,Building,Hard coal,51.0
+1996,Building,Lignite,92.0
+1996,Building,Natural gas & LPG,1533.0
+1996,Building,Other,0.0
+1996,Building,Petroleum,1648.0
+1996,Building,Renewables,98.0
+1996,Industry,District heat,68.0
+1996,Industry,Electricity,677.0
+1996,Industry,Hard coal,396.0
+1996,Industry,Lignite,73.0
+1996,Industry,Natural gas & LPG,740.0
+1996,Industry,Other,0.0
+1996,Industry,Petroleum,335.0
+1996,Industry,Renewables,10.0
+1996,Transportation,District heat,0.0
+1996,Transportation,Electricity,60.0
+1996,Transportation,Hard coal,0.0
+1996,Transportation,Lignite,1.0
+1996,Transportation,Natural gas & LPG,0.0
+1996,Transportation,Other,0.0
+1996,Transportation,Petroleum,2562.0
+1996,Transportation,Renewables,2.0
+1997,Agriculture,District heat,0.0
+1997,Agriculture,Electricity,0.0
+1997,Agriculture,Hard coal,0.0
+1997,Agriculture,Lignite,0.0
+1997,Agriculture,Natural gas & LPG,0.0
+1997,Agriculture,Other,0.0
+1997,Agriculture,Petroleum,0.0
+1997,Agriculture,Renewables,0.0
+1997,Building,District heat,247.0
+1997,Building,Electricity,929.0
+1997,Building,Hard coal,50.0
+1997,Building,Lignite,63.0
+1997,Building,Natural gas & LPG,1430.0
+1997,Building,Other,0.0
+1997,Building,Petroleum,1572.0
+1997,Building,Renewables,161.0
+1997,Industry,District heat,62.0
+1997,Industry,Electricity,701.0
+1997,Industry,Hard coal,410.0
+1997,Industry,Lignite,67.0
+1997,Industry,Natural gas & LPG,739.0
+1997,Industry,Other,0.0
+1997,Industry,Petroleum,316.0
+1997,Industry,Renewables,10.0
+1997,Transportation,District heat,0.0
+1997,Transportation,Electricity,61.0
+1997,Transportation,Hard coal,0.0
+1997,Transportation,Lignite,1.0
+1997,Transportation,Natural gas & LPG,0.0
+1997,Transportation,Other,0.0
+1997,Transportation,Petroleum,2577.0
+1997,Transportation,Renewables,4.0
+1998,Agriculture,District heat,0.0
+1998,Agriculture,Electricity,0.0
+1998,Agriculture,Hard coal,0.0
+1998,Agriculture,Lignite,0.0
+1998,Agriculture,Natural gas & LPG,0.0
+1998,Agriculture,Other,0.0
+1998,Agriculture,Petroleum,0.0
+1998,Agriculture,Renewables,0.0
+1998,Building,District heat,249.0
+1998,Building,Electricity,935.0
+1998,Building,Hard coal,32.0
+1998,Building,Lignite,41.0
+1998,Building,Natural gas & LPG,1444.0
+1998,Building,Other,0.0
+1998,Building,Petroleum,1503.0
+1998,Building,Renewables,168.0
+1998,Industry,District heat,62.0
+1998,Industry,Electricity,716.0
+1998,Industry,Hard coal,358.0
+1998,Industry,Lignite,63.0
+1998,Industry,Natural gas & LPG,752.0
+1998,Industry,Other,0.0
+1998,Industry,Petroleum,300.0
+1998,Industry,Renewables,14.0
+1998,Transportation,District heat,0.0
+1998,Transportation,Electricity,58.0
+1998,Transportation,Hard coal,0.0
+1998,Transportation,Lignite,1.0
+1998,Transportation,Natural gas & LPG,0.0
+1998,Transportation,Other,0.0
+1998,Transportation,Petroleum,2628.0
+1998,Transportation,Renewables,4.0
+1999,Agriculture,District heat,0.0
+1999,Agriculture,Electricity,0.0
+1999,Agriculture,Hard coal,0.0
+1999,Agriculture,Lignite,0.0
+1999,Agriculture,Natural gas & LPG,0.0
+1999,Agriculture,Other,0.0
+1999,Agriculture,Petroleum,0.0
+1999,Agriculture,Renewables,0.0
+1999,Building,District heat,232.0
+1999,Building,Electricity,938.0
+1999,Building,Hard coal,34.0
+1999,Building,Lignite,33.0
+1999,Building,Natural gas & LPG,1422.0
+1999,Building,Other,0.0
+1999,Building,Petroleum,1304.0
+1999,Building,Renewables,173.0
+1999,Industry,District heat,58.0
+1999,Industry,Electricity,723.0
+1999,Industry,Hard coal,359.0
+1999,Industry,Lignite,59.0
+1999,Industry,Natural gas & LPG,779.0
+1999,Industry,Other,0.0
+1999,Industry,Petroleum,269.0
+1999,Industry,Renewables,14.0
+1999,Transportation,District heat,0.0
+1999,Transportation,Electricity,57.0
+1999,Transportation,Hard coal,0.0
+1999,Transportation,Lignite,1.0
+1999,Transportation,Natural gas & LPG,0.0
+1999,Transportation,Other,0.0
+1999,Transportation,Petroleum,2718.0
+1999,Transportation,Renewables,5.0
+2000,Agriculture,District heat,0.0
+2000,Agriculture,Electricity,0.0
+2000,Agriculture,Hard coal,0.0
+2000,Agriculture,Lignite,0.0
+2000,Agriculture,Natural gas & LPG,0.0
+2000,Agriculture,Other,0.0
+2000,Agriculture,Petroleum,0.0
+2000,Agriculture,Renewables,0.0
+2000,Building,District heat,222.0
+2000,Building,Electricity,974.0
+2000,Building,Hard coal,41.0
+2000,Building,Lignite,27.0
+2000,Building,Natural gas & LPG,1393.0
+2000,Building,Other,0.0
+2000,Building,Petroleum,1231.0
+2000,Building,Renewables,174.0
+2000,Industry,District heat,43.0
+2000,Industry,Electricity,748.0
+2000,Industry,Hard coal,391.0
+2000,Industry,Lignite,54.0
+2000,Industry,Natural gas & LPG,812.0
+2000,Industry,Other,0.0
+2000,Industry,Petroleum,235.0
+2000,Industry,Renewables,14.0
+2000,Transportation,District heat,0.0
+2000,Transportation,Electricity,57.0
+2000,Transportation,Hard coal,0.0
+2000,Transportation,Lignite,0.0
+2000,Transportation,Natural gas & LPG,0.0
+2000,Transportation,Other,0.0
+2000,Transportation,Petroleum,2681.0
+2000,Transportation,Renewables,12.0
+2001,Agriculture,District heat,0.0
+2001,Agriculture,Electricity,0.0
+2001,Agriculture,Hard coal,0.0
+2001,Agriculture,Lignite,0.0
+2001,Agriculture,Natural gas & LPG,0.0
+2001,Agriculture,Other,0.0
+2001,Agriculture,Petroleum,0.0
+2001,Agriculture,Renewables,0.0
+2001,Building,District heat,223.0
+2001,Building,Electricity,970.0
+2001,Building,Hard coal,43.0
+2001,Building,Lignite,27.0
+2001,Building,Natural gas & LPG,1530.0
+2001,Building,Other,0.0
+2001,Building,Petroleum,1398.0
+2001,Building,Renewables,200.0
+2001,Industry,District heat,44.0
+2001,Industry,Electricity,750.0
+2001,Industry,Hard coal,366.0
+2001,Industry,Lignite,49.0
+2001,Industry,Natural gas & LPG,794.0
+2001,Industry,Other,0.0
+2001,Industry,Petroleum,235.0
+2001,Industry,Renewables,15.0
+2001,Transportation,District heat,0.0
+2001,Transportation,Electricity,58.0
+2001,Transportation,Hard coal,0.0
+2001,Transportation,Lignite,0.0
+2001,Transportation,Natural gas & LPG,0.0
+2001,Transportation,Other,0.0
+2001,Transportation,Petroleum,2623.0
+2001,Transportation,Renewables,17.0
+2002,Agriculture,District heat,0.0
+2002,Agriculture,Electricity,0.0
+2002,Agriculture,Hard coal,0.0
+2002,Agriculture,Lignite,0.0
+2002,Agriculture,Natural gas & LPG,0.0
+2002,Agriculture,Other,0.0
+2002,Agriculture,Petroleum,0.0
+2002,Agriculture,Renewables,0.0
+2002,Building,District heat,228.0
+2002,Building,Electricity,992.0
+2002,Building,Hard coal,42.0
+2002,Building,Lignite,21.0
+2002,Building,Natural gas & LPG,1509.0
+2002,Building,Other,0.0
+2002,Building,Petroleum,1246.0
+2002,Building,Renewables,196.0
+2002,Industry,District heat,43.0
+2002,Industry,Electricity,751.0
+2002,Industry,Hard coal,356.0
+2002,Industry,Lignite,49.0
+2002,Industry,Natural gas & LPG,781.0
+2002,Industry,Other,0.0
+2002,Industry,Petroleum,224.0
+2002,Industry,Renewables,15.0
+2002,Transportation,District heat,0.0
+2002,Transportation,Electricity,58.0
+2002,Transportation,Hard coal,0.0
+2002,Transportation,Lignite,0.0
+2002,Transportation,Natural gas & LPG,0.0
+2002,Transportation,Other,0.0
+2002,Transportation,Petroleum,2594.0
+2002,Transportation,Renewables,20.0
+2003,Agriculture,District heat,0.0
+2003,Agriculture,Electricity,0.0
+2003,Agriculture,Hard coal,0.0
+2003,Agriculture,Lignite,0.0
+2003,Agriculture,Natural gas & LPG,0.0
+2003,Agriculture,Other,0.0
+2003,Agriculture,Petroleum,0.0
+2003,Agriculture,Renewables,0.0
+2003,Building,District heat,321.0
+2003,Building,Electricity,1022.0
+2003,Building,Hard coal,13.0
+2003,Building,Lignite,21.0
+2003,Building,Natural gas & LPG,1423.0
+2003,Building,Other,0.0
+2003,Building,Petroleum,1213.0
+2003,Building,Renewables,249.0
+2003,Industry,District heat,107.0
+2003,Industry,Electricity,789.0
+2003,Industry,Hard coal,357.0
+2003,Industry,Lignite,53.0
+2003,Industry,Natural gas & LPG,785.0
+2003,Industry,Other,62.0
+2003,Industry,Petroleum,209.0
+2003,Industry,Renewables,54.0
+2003,Transportation,District heat,0.0
+2003,Transportation,Electricity,47.0
+2003,Transportation,Hard coal,0.0
+2003,Transportation,Lignite,0.0
+2003,Transportation,Natural gas & LPG,2.0
+2003,Transportation,Other,0.0
+2003,Transportation,Petroleum,2505.0
+2003,Transportation,Renewables,29.0
+2004,Agriculture,District heat,0.0
+2004,Agriculture,Electricity,0.0
+2004,Agriculture,Hard coal,0.0
+2004,Agriculture,Lignite,0.0
+2004,Agriculture,Natural gas & LPG,0.0
+2004,Agriculture,Other,0.0
+2004,Agriculture,Petroleum,0.0
+2004,Agriculture,Renewables,0.0
+2004,Building,District heat,344.0
+2004,Building,Electricity,1026.0
+2004,Building,Hard coal,10.0
+2004,Building,Lignite,19.0
+2004,Building,Natural gas & LPG,1395.0
+2004,Building,Other,0.0
+2004,Building,Petroleum,1081.0
+2004,Building,Renewables,257.0
+2004,Industry,District heat,105.0
+2004,Industry,Electricity,810.0
+2004,Industry,Hard coal,329.0
+2004,Industry,Lignite,63.0
+2004,Industry,Natural gas & LPG,780.0
+2004,Industry,Other,76.0
+2004,Industry,Petroleum,190.0
+2004,Industry,Renewables,77.0
+2004,Transportation,District heat,0.0
+2004,Transportation,Electricity,46.0
+2004,Transportation,Hard coal,0.0
+2004,Transportation,Lignite,0.0
+2004,Transportation,Natural gas & LPG,3.0
+2004,Transportation,Other,0.0
+2004,Transportation,Petroleum,2532.0
+2004,Transportation,Renewables,38.0
+2005,Agriculture,District heat,0.0
+2005,Agriculture,Electricity,0.0
+2005,Agriculture,Hard coal,0.0
+2005,Agriculture,Lignite,0.0
+2005,Agriculture,Natural gas & LPG,0.0
+2005,Agriculture,Other,0.0
+2005,Agriculture,Petroleum,0.0
+2005,Agriculture,Renewables,0.0
+2005,Building,District heat,333.0
+2005,Building,Electricity,1012.0
+2005,Building,Hard coal,10.0
+2005,Building,Lignite,19.0
+2005,Building,Natural gas & LPG,1354.0
+2005,Building,Other,0.0
+2005,Building,Petroleum,1092.0
+2005,Building,Renewables,260.0
+2005,Industry,District heat,114.0
+2005,Industry,Electricity,823.0
+2005,Industry,Hard coal,296.0
+2005,Industry,Lignite,59.0
+2005,Industry,Natural gas & LPG,776.0
+2005,Industry,Other,29.0
+2005,Industry,Petroleum,172.0
+2005,Industry,Renewables,88.0
+2005,Transportation,District heat,0.0
+2005,Transportation,Electricity,47.0
+2005,Transportation,Hard coal,0.0
+2005,Transportation,Lignite,0.0
+2005,Transportation,Natural gas & LPG,3.0
+2005,Transportation,Other,0.0
+2005,Transportation,Petroleum,2469.0
+2005,Transportation,Renewables,76.0
+2006,Agriculture,District heat,0.0
+2006,Agriculture,Electricity,0.0
+2006,Agriculture,Hard coal,0.0
+2006,Agriculture,Lignite,0.0
+2006,Agriculture,Natural gas & LPG,0.0
+2006,Agriculture,Other,0.0
+2006,Agriculture,Petroleum,0.0
+2006,Agriculture,Renewables,0.0
+2006,Building,District heat,306.0
+2006,Building,Electricity,1030.0
+2006,Building,Hard coal,10.0
+2006,Building,Lignite,23.0
+2006,Building,Natural gas & LPG,1421.0
+2006,Building,Other,0.0
+2006,Building,Petroleum,1166.0
+2006,Building,Renewables,306.0
+2006,Industry,District heat,138.0
+2006,Industry,Electricity,825.0
+2006,Industry,Hard coal,329.0
+2006,Industry,Lignite,59.0
+2006,Industry,Natural gas & LPG,778.0
+2006,Industry,Other,20.0
+2006,Industry,Petroleum,189.0
+2006,Industry,Renewables,86.0
+2006,Transportation,District heat,0.0
+2006,Transportation,Electricity,46.0
+2006,Transportation,Hard coal,0.0
+2006,Transportation,Lignite,0.0
+2006,Transportation,Natural gas & LPG,4.0
+2006,Transportation,Other,0.0
+2006,Transportation,Petroleum,2498.0
+2006,Transportation,Renewables,140.0
+2007,Agriculture,District heat,0.0
+2007,Agriculture,Electricity,0.0
+2007,Agriculture,Hard coal,0.0
+2007,Agriculture,Lignite,0.0
+2007,Agriculture,Natural gas & LPG,0.0
+2007,Agriculture,Other,0.0
+2007,Agriculture,Petroleum,0.0
+2007,Agriculture,Renewables,0.0
+2007,Building,District heat,276.0
+2007,Building,Electricity,1017.0
+2007,Building,Hard coal,13.0
+2007,Building,Lignite,15.0
+2007,Building,Natural gas & LPG,1287.0
+2007,Building,Other,0.0
+2007,Building,Petroleum,743.0
+2007,Building,Renewables,331.0
+2007,Industry,District heat,151.0
+2007,Industry,Electricity,850.0
+2007,Industry,Hard coal,336.0
+2007,Industry,Lignite,63.0
+2007,Industry,Natural gas & LPG,820.0
+2007,Industry,Other,35.0
+2007,Industry,Petroleum,169.0
+2007,Industry,Renewables,103.0
+2007,Transportation,District heat,0.0
+2007,Transportation,Electricity,44.0
+2007,Transportation,Hard coal,0.0
+2007,Transportation,Lignite,0.0
+2007,Transportation,Natural gas & LPG,4.0
+2007,Transportation,Other,0.0
+2007,Transportation,Petroleum,2376.0
+2007,Transportation,Renewables,159.0
+2008,Agriculture,District heat,0.0
+2008,Agriculture,Electricity,0.0
+2008,Agriculture,Hard coal,0.0
+2008,Agriculture,Lignite,0.0
+2008,Agriculture,Natural gas & LPG,0.0
+2008,Agriculture,Other,0.0
+2008,Agriculture,Petroleum,0.0
+2008,Agriculture,Renewables,0.0
+2008,Building,District heat,306.0
+2008,Building,Electricity,1028.0
+2008,Building,Hard coal,12.0
+2008,Building,Lignite,22.0
+2008,Building,Natural gas & LPG,1357.0
+2008,Building,Other,0.0
+2008,Building,Petroleum,1027.0
+2008,Building,Renewables,388.0
+2008,Industry,District heat,130.0
+2008,Industry,Electricity,837.0
+2008,Industry,Hard coal,318.0
+2008,Industry,Lignite,66.0
+2008,Industry,Natural gas & LPG,817.0
+2008,Industry,Other,62.0
+2008,Industry,Petroleum,159.0
+2008,Industry,Renewables,79.0
+2008,Transportation,District heat,0.0
+2008,Transportation,Electricity,40.0
+2008,Transportation,Hard coal,0.0
+2008,Transportation,Lignite,0.0
+2008,Transportation,Natural gas & LPG,5.0
+2008,Transportation,Other,0.0
+2008,Transportation,Petroleum,2376.0
+2008,Transportation,Renewables,124.0
+2009,Agriculture,District heat,0.0
+2009,Agriculture,Electricity,0.0
+2009,Agriculture,Hard coal,0.0
+2009,Agriculture,Lignite,0.0
+2009,Agriculture,Natural gas & LPG,0.0
+2009,Agriculture,Other,0.0
+2009,Agriculture,Petroleum,0.0
+2009,Agriculture,Renewables,0.0
+2009,Building,District heat,275.0
+2009,Building,Electricity,1034.0
+2009,Building,Hard coal,10.0
+2009,Building,Lignite,22.0
+2009,Building,Natural gas & LPG,1321.0
+2009,Building,Other,0.0
+2009,Building,Petroleum,916.0
+2009,Building,Renewables,372.0
+2009,Industry,District heat,152.0
+2009,Industry,Electricity,719.0
+2009,Industry,Hard coal,259.0
+2009,Industry,Lignite,58.0
+2009,Industry,Natural gas & LPG,706.0
+2009,Industry,Other,74.0
+2009,Industry,Petroleum,142.0
+2009,Industry,Renewables,88.0
+2009,Transportation,District heat,0.0
+2009,Transportation,Electricity,42.0
+2009,Transportation,Hard coal,0.0
+2009,Transportation,Lignite,0.0
+2009,Transportation,Natural gas & LPG,5.0
+2009,Transportation,Other,0.0
+2009,Transportation,Petroleum,2362.0
+2009,Transportation,Renewables,110.0
+2010,Agriculture,District heat,0.0
+2010,Agriculture,Electricity,21.2
+2010,Agriculture,Hard coal,0.0
+2010,Agriculture,Lignite,0.0
+2010,Agriculture,Natural gas & LPG,17.0
+2010,Agriculture,Other,0.0
+2010,Agriculture,Petroleum,0.0
+2010,Agriculture,Renewables,0.0
+2010,Building,District heat,326.0
+2010,Building,Electricity,1079.0
+2010,Building,Hard coal,20.0
+2010,Building,Lignite,25.0
+2010,Building,Natural gas & LPG,1442.0
+2010,Building,Other,0.0
+2010,Building,Petroleum,914.0
+2010,Building,Renewables,447.0
+2010,Industry,District heat,146.0
+2010,Industry,Electricity,799.0
+2010,Industry,Hard coal,334.0
+2010,Industry,Lignite,64.0
+2010,Industry,Natural gas & LPG,798.0
+2010,Industry,Other,72.0
+2010,Industry,Petroleum,164.0
+2010,Industry,Renewables,113.0
+2010,Transportation,District heat,0.0
+2010,Transportation,Electricity,43.0
+2010,Transportation,Hard coal,0.0
+2010,Transportation,Lignite,0.0
+2010,Transportation,Natural gas & LPG,5.0
+2010,Transportation,Other,0.0
+2010,Transportation,Petroleum,2365.0
+2010,Transportation,Renewables,121.0
+2011,Agriculture,District heat,0.0
+2011,Agriculture,Electricity,20.3
+2011,Agriculture,Hard coal,0.0
+2011,Agriculture,Lignite,0.0
+2011,Agriculture,Natural gas & LPG,19.7
+2011,Agriculture,Other,0.0
+2011,Agriculture,Petroleum,0.0
+2011,Agriculture,Renewables,0.0
+2011,Building,District heat,250.0
+2011,Building,Electricity,1034.0
+2011,Building,Hard coal,19.0
+2011,Building,Lignite,21.0
+2011,Building,Natural gas & LPG,1235.0
+2011,Building,Other,0.0
+2011,Building,Petroleum,816.0
+2011,Building,Renewables,408.0
+2011,Industry,District heat,169.0
+2011,Industry,Electricity,818.0
+2011,Industry,Hard coal,334.0
+2011,Industry,Lignite,73.0
+2011,Industry,Natural gas & LPG,794.0
+2011,Industry,Other,96.0
+2011,Industry,Petroleum,147.0
+2011,Industry,Renewables,121.0
+2011,Transportation,District heat,0.0
+2011,Transportation,Electricity,44.0
+2011,Transportation,Hard coal,0.0
+2011,Transportation,Lignite,0.0
+2011,Transportation,Natural gas & LPG,6.0
+2011,Transportation,Other,0.0
+2011,Transportation,Petroleum,2371.0
+2011,Transportation,Renewables,118.0
+2012,Agriculture,District heat,0.0
+2012,Agriculture,Electricity,20.5
+2012,Agriculture,Hard coal,0.0
+2012,Agriculture,Lignite,0.0
+2012,Agriculture,Natural gas & LPG,16.1
+2012,Agriculture,Other,0.0
+2012,Agriculture,Petroleum,0.0
+2012,Agriculture,Renewables,0.0
+2012,Building,District heat,242.0
+2012,Building,Electricity,1034.0
+2012,Building,Hard coal,15.0
+2012,Building,Lignite,20.0
+2012,Building,Natural gas & LPG,1281.0
+2012,Building,Other,0.0
+2012,Building,Petroleum,847.0
+2012,Building,Renewables,464.0
+2012,Industry,District heat,188.0
+2012,Industry,Electricity,814.0
+2012,Industry,Hard coal,326.0
+2012,Industry,Lignite,72.0
+2012,Industry,Natural gas & LPG,790.0
+2012,Industry,Other,77.0
+2012,Industry,Petroleum,132.0
+2012,Industry,Renewables,111.0
+2012,Transportation,District heat,0.0
+2012,Transportation,Electricity,43.0
+2012,Transportation,Hard coal,0.0
+2012,Transportation,Lignite,0.0
+2012,Transportation,Natural gas & LPG,6.0
+2012,Transportation,Other,0.0
+2012,Transportation,Petroleum,2374.0
+2012,Transportation,Renewables,124.0
+2013,Agriculture,District heat,0.0
+2013,Agriculture,Electricity,16.1
+2013,Agriculture,Hard coal,0.0
+2013,Agriculture,Lignite,0.0
+2013,Agriculture,Natural gas & LPG,15.2
+2013,Agriculture,Other,0.0
+2013,Agriculture,Petroleum,0.0
+2013,Agriculture,Renewables,0.0
+2013,Building,District heat,245.0
+2013,Building,Electricity,1031.0
+2013,Building,Hard coal,9.0
+2013,Building,Lignite,20.0
+2013,Building,Natural gas & LPG,1377.0
+2013,Building,Other,0.0
+2013,Building,Petroleum,928.0
+2013,Building,Renewables,486.0
+2013,Industry,District heat,190.0
+2013,Industry,Electricity,807.0
+2013,Industry,Hard coal,329.0
+2013,Industry,Lignite,72.0
+2013,Industry,Natural gas & LPG,801.0
+2013,Industry,Other,61.0
+2013,Industry,Petroleum,118.0
+2013,Industry,Renewables,110.0
+2013,Transportation,District heat,0.0
+2013,Transportation,Electricity,43.0
+2013,Transportation,Hard coal,0.0
+2013,Transportation,Lignite,0.0
+2013,Transportation,Natural gas & LPG,6.0
+2013,Transportation,Other,0.0
+2013,Transportation,Petroleum,2433.0
+2013,Transportation,Renewables,113.0
+2014,Agriculture,District heat,0.0
+2014,Agriculture,Electricity,22.5
+2014,Agriculture,Hard coal,0.0
+2014,Agriculture,Lignite,0.0
+2014,Agriculture,Natural gas & LPG,18.4
+2014,Agriculture,Other,0.0
+2014,Agriculture,Petroleum,0.0
+2014,Agriculture,Renewables,0.0
+2014,Building,District heat,209.0
+2014,Building,Electricity,977.0
+2014,Building,Hard coal,12.0
+2014,Building,Lignite,14.0
+2014,Building,Natural gas & LPG,1170.0
+2014,Building,Other,0.0
+2014,Building,Petroleum,812.0
+2014,Building,Renewables,424.0
+2014,Industry,District heat,174.0
+2014,Industry,Electricity,824.0
+2014,Industry,Hard coal,336.0
+2014,Industry,Lignite,71.0
+2014,Industry,Natural gas & LPG,780.0
+2014,Industry,Other,65.0
+2014,Industry,Petroleum,98.0
+2014,Industry,Renewables,114.0
+2014,Transportation,District heat,0.0
+2014,Transportation,Electricity,41.0
+2014,Transportation,Hard coal,0.0
+2014,Transportation,Lignite,0.0
+2014,Transportation,Natural gas & LPG,6.0
+2014,Transportation,Other,0.0
+2014,Transportation,Petroleum,2441.0
+2014,Transportation,Renewables,116.0
+2015,Agriculture,District heat,0.0
+2015,Agriculture,Electricity,19.9
+2015,Agriculture,Hard coal,0.0
+2015,Agriculture,Lignite,0.0
+2015,Agriculture,Natural gas & LPG,15.8
+2015,Agriculture,Other,0.0
+2015,Agriculture,Petroleum,0.0
+2015,Agriculture,Renewables,0.0
+2015,Building,District heat,228.0
+2015,Building,Electricity,1004.0
+2015,Building,Hard coal,19.0
+2015,Building,Lignite,14.0
+2015,Building,Natural gas & LPG,1270.0
+2015,Building,Other,0.0
+2015,Building,Petroleum,804.0
+2015,Building,Renewables,440.0
+2015,Industry,District heat,173.0
+2015,Industry,Electricity,810.0
+2015,Industry,Hard coal,363.0
+2015,Industry,Lignite,69.0
+2015,Industry,Natural gas & LPG,779.0
+2015,Industry,Other,63.0
+2015,Industry,Petroleum,99.0
+2015,Industry,Renewables,110.0
+2015,Transportation,District heat,0.0
+2015,Transportation,Electricity,40.0
+2015,Transportation,Hard coal,0.0
+2015,Transportation,Lignite,0.0
+2015,Transportation,Natural gas & LPG,6.0
+2015,Transportation,Other,0.0
+2015,Transportation,Petroleum,2484.0
+2015,Transportation,Renewables,107.0
+2016,Agriculture,District heat,0.0
+2016,Agriculture,Electricity,19.6
+2016,Agriculture,Hard coal,0.0
+2016,Agriculture,Lignite,0.0
+2016,Agriculture,Natural gas & LPG,16.8
+2016,Agriculture,Other,0.0
+2016,Agriculture,Petroleum,0.0
+2016,Agriculture,Renewables,0.0
+2016,Building,District heat,231.0
+2016,Building,Electricity,1005.0
+2016,Building,Hard coal,9.0
+2016,Building,Lignite,14.0
+2016,Building,Natural gas & LPG,1313.0
+2016,Building,Other,0.0
+2016,Building,Petroleum,783.0
+2016,Building,Renewables,433.0
+2016,Industry,District heat,179.0
+2016,Industry,Electricity,816.0
+2016,Industry,Hard coal,368.0
+2016,Industry,Lignite,73.0
+2016,Industry,Natural gas & LPG,812.0
+2016,Industry,Other,66.0
+2016,Industry,Petroleum,110.0
+2016,Industry,Renewables,116.0
+2016,Transportation,District heat,0.0
+2016,Transportation,Electricity,42.0
+2016,Transportation,Hard coal,0.0
+2016,Transportation,Lignite,0.0
+2016,Transportation,Natural gas & LPG,5.0
+2016,Transportation,Other,0.0
+2016,Transportation,Petroleum,2548.0
+2016,Transportation,Renewables,108.0
+2017,Agriculture,District heat,0.0
+2017,Agriculture,Electricity,18.3
+2017,Agriculture,Hard coal,0.0
+2017,Agriculture,Lignite,0.0
+2017,Agriculture,Natural gas & LPG,13.0
+2017,Agriculture,Other,0.0
+2017,Agriculture,Petroleum,0.0
+2017,Agriculture,Renewables,0.0
+2017,Building,District heat,239.0
+2017,Building,Electricity,1005.0
+2017,Building,Hard coal,8.0
+2017,Building,Lignite,14.0
+2017,Building,Natural gas & LPG,1298.0
+2017,Building,Other,0.0
+2017,Building,Petroleum,773.0
+2017,Building,Renewables,450.0
+2017,Industry,District heat,172.0
+2017,Industry,Electricity,821.0
+2017,Industry,Hard coal,358.0
+2017,Industry,Lignite,74.0
+2017,Industry,Natural gas & LPG,847.0
+2017,Industry,Other,66.0
+2017,Industry,Petroleum,108.0
+2017,Industry,Renewables,115.0
+2017,Transportation,District heat,0.0
+2017,Transportation,Electricity,40.0
+2017,Transportation,Hard coal,0.0
+2017,Transportation,Lignite,0.0
+2017,Transportation,Natural gas & LPG,5.0
+2017,Transportation,Other,0.0
+2017,Transportation,Petroleum,2630.0
+2017,Transportation,Renewables,109.0
+2018,Agriculture,District heat,0.0
+2018,Agriculture,Electricity,18.5
+2018,Agriculture,Hard coal,0.0
+2018,Agriculture,Lignite,0.0
+2018,Agriculture,Natural gas & LPG,12.9
+2018,Agriculture,Other,0.0
+2018,Agriculture,Petroleum,0.0
+2018,Agriculture,Renewables,0.0
+2018,Building,District heat,254.0
+2018,Building,Electricity,989.0
+2018,Building,Hard coal,7.0
+2018,Building,Lignite,14.0
+2018,Building,Natural gas & LPG,1286.0
+2018,Building,Other,0.0
+2018,Building,Petroleum,711.0
+2018,Building,Renewables,463.0
+2018,Industry,District heat,151.0
+2018,Industry,Electricity,814.0
+2018,Industry,Hard coal,353.0
+2018,Industry,Lignite,72.0
+2018,Industry,Natural gas & LPG,817.0
+2018,Industry,Other,77.0
+2018,Industry,Petroleum,85.0
+2018,Industry,Renewables,113.0
+2018,Transportation,District heat,0.0
+2018,Transportation,Electricity,42.0
+2018,Transportation,Hard coal,0.0
+2018,Transportation,Lignite,0.0
+2018,Transportation,Natural gas & LPG,5.0
+2018,Transportation,Other,0.0
+2018,Transportation,Petroleum,2578.0
+2018,Transportation,Renewables,113.0
+2019,Agriculture,District heat,0.0
+2019,Agriculture,Electricity,17.8
+2019,Agriculture,Hard coal,0.0
+2019,Agriculture,Lignite,0.0
+2019,Agriculture,Natural gas & LPG,12.1
+2019,Agriculture,Other,0.0
+2019,Agriculture,Petroleum,0.0
+2019,Agriculture,Renewables,0.0
+2019,Building,District heat,265.0
+2019,Building,Electricity,972.0
+2019,Building,Hard coal,2.0
+2019,Building,Lignite,12.0
+2019,Building,Natural gas & LPG,1306.0
+2019,Building,Other,0.0
+2019,Building,Petroleum,783.0
+2019,Building,Renewables,474.0
+2019,Industry,District heat,143.0
+2019,Industry,Electricity,786.0
+2019,Industry,Hard coal,336.0
+2019,Industry,Lignite,67.0
+2019,Industry,Natural gas & LPG,796.0
+2019,Industry,Other,77.0
+2019,Industry,Petroleum,85.0
+2019,Industry,Renewables,113.0
+2019,Transportation,District heat,0.0
+2019,Transportation,Electricity,42.0
+2019,Transportation,Hard coal,0.0
+2019,Transportation,Lignite,0.0
+2019,Transportation,Natural gas & LPG,5.0
+2019,Transportation,Other,0.0
+2019,Transportation,Petroleum,2587.0
+2019,Transportation,Renewables,112.0
+2020,Agriculture,District heat,0.0
+2020,Agriculture,Electricity,16.4
+2020,Agriculture,Hard coal,0.0
+2020,Agriculture,Lignite,0.0
+2020,Agriculture,Natural gas & LPG,14.1
+2020,Agriculture,Other,0.0
+2020,Agriculture,Petroleum,0.0
+2020,Agriculture,Renewables,0.0
+2020,Building,District heat,253.0
+2020,Building,Electricity,956.0
+2020,Building,Hard coal,2.0
+2020,Building,Lignite,11.0
+2020,Building,Natural gas & LPG,1264.0
+2020,Building,Other,0.0
+2020,Building,Petroleum,794.0
+2020,Building,Renewables,468.0
+2020,Industry,District heat,129.0
+2020,Industry,Electricity,744.0
+2020,Industry,Hard coal,275.0
+2020,Industry,Lignite,78.0
+2020,Industry,Natural gas & LPG,793.0
+2020,Industry,Other,72.0
+2020,Industry,Petroleum,102.0
+2020,Industry,Renewables,112.0
+2020,Transportation,District heat,0.0
+2020,Transportation,Electricity,42.0
+2020,Transportation,Hard coal,0.0
+2020,Transportation,Lignite,0.0
+2020,Transportation,Natural gas & LPG,5.0
+2020,Transportation,Other,0.0
+2020,Transportation,Petroleum,2129.0
+2020,Transportation,Renewables,141.0
+2021,Agriculture,District heat,0.0
+2021,Agriculture,Electricity,16.7
+2021,Agriculture,Hard coal,0.0
+2021,Agriculture,Lignite,0.0
+2021,Agriculture,Natural gas & LPG,14.3
+2021,Agriculture,Other,0.0
+2021,Agriculture,Petroleum,0.0
+2021,Agriculture,Renewables,0.0
+2021,Building,District heat,304.0
+2021,Building,Electricity,984.0
+2021,Building,Hard coal,2.0
+2021,Building,Lignite,12.0
+2021,Building,Natural gas & LPG,1424.0
+2021,Building,Other,0.0
+2021,Building,Petroleum,624.0
+2021,Building,Renewables,519.0
+2021,Industry,District heat,138.0
+2021,Industry,Electricity,772.0
+2021,Industry,Hard coal,373.0
+2021,Industry,Lignite,73.0
+2021,Industry,Natural gas & LPG,830.0
+2021,Industry,Other,79.0
+2021,Industry,Petroleum,97.0
+2021,Industry,Renewables,118.0
+2021,Transportation,District heat,0.0
+2021,Transportation,Electricity,47.0
+2021,Transportation,Hard coal,0.0
+2021,Transportation,Lignite,0.0
+2021,Transportation,Natural gas & LPG,8.0
+2021,Transportation,Other,0.0
+2021,Transportation,Petroleum,2199.0
+2021,Transportation,Renewables,124.0
+2022,Agriculture,District heat,0.0
+2022,Agriculture,Electricity,15.9
+2022,Agriculture,Hard coal,0.0
+2022,Agriculture,Lignite,0.0
+2022,Agriculture,Natural gas & LPG,13.7
+2022,Agriculture,Other,0.0
+2022,Agriculture,Petroleum,0.0
+2022,Agriculture,Renewables,0.0
+2022,Building,District heat,247.0
+2022,Building,Electricity,945.0
+2022,Building,Hard coal,2.0
+2022,Building,Lignite,10.0
+2022,Building,Natural gas & LPG,1284.0
+2022,Building,Other,0.0
+2022,Building,Petroleum,629.0
+2022,Building,Renewables,557.0
+2022,Industry,District heat,132.0
+2022,Industry,Electricity,725.0
+2022,Industry,Hard coal,309.0
+2022,Industry,Lignite,70.0
+2022,Industry,Natural gas & LPG,720.0
+2022,Industry,Other,81.0
+2022,Industry,Petroleum,112.0
+2022,Industry,Renewables,121.0
+2022,Transportation,District heat,0.0
+2022,Transportation,Electricity,53.0
+2022,Transportation,Hard coal,0.0
+2022,Transportation,Lignite,0.0
+2022,Transportation,Natural gas & LPG,8.0
+2022,Transportation,Other,0.0
+2022,Transportation,Petroleum,2340.0
+2022,Transportation,Renewables,126.0
+2023,Agriculture,District heat,0.0
+2023,Agriculture,Electricity,16.1
+2023,Agriculture,Hard coal,0.0
+2023,Agriculture,Lignite,0.0
+2023,Agriculture,Natural gas & LPG,13.9
+2023,Agriculture,Other,0.0
+2023,Agriculture,Petroleum,0.0
+2023,Agriculture,Renewables,0.0
+2023,Building,District heat,247.0
+2023,Building,Electricity,908.0
+2023,Building,Hard coal,4.0
+2023,Building,Lignite,9.0
+2023,Building,Natural gas & LPG,1157.0
+2023,Building,Other,0.0
+2023,Building,Petroleum,604.0
+2023,Building,Renewables,507.0
+2023,Industry,District heat,118.0
+2023,Industry,Electricity,669.0
+2023,Industry,Hard coal,275.0
+2023,Industry,Lignite,57.0
+2023,Industry,Natural gas & LPG,667.0
+2023,Industry,Other,74.0
+2023,Industry,Petroleum,95.0
+2023,Industry,Renewables,116.0
+2023,Transportation,District heat,0.0
+2023,Transportation,Electricity,58.0
+2023,Transportation,Hard coal,0.0
+2023,Transportation,Lignite,0.0
+2023,Transportation,Natural gas & LPG,7.0
+2023,Transportation,Other,0.0
+2023,Transportation,Petroleum,2309.0
+2023,Transportation,Renewables,132.0
+2024,Agriculture,District heat,0.0
+2024,Agriculture,Electricity,16.1
+2024,Agriculture,Hard coal,0.0
+2024,Agriculture,Lignite,0.0
+2024,Agriculture,Natural gas & LPG,13.9
+2024,Agriculture,Other,0.0
+2024,Agriculture,Petroleum,0.0
+2024,Agriculture,Renewables,0.0
+2024,Building,District heat,212.0
+2024,Building,Electricity,924.0
+2024,Building,Hard coal,4.0
+2024,Building,Lignite,6.0
+2024,Building,Natural gas & LPG,1142.0
+2024,Building,Other,0.0
+2024,Building,Petroleum,588.0
+2024,Building,Renewables,519.0
+2024,Industry,District heat,142.0
+2024,Industry,Electricity,677.0
+2024,Industry,Hard coal,299.0
+2024,Industry,Lignite,60.0
+2024,Industry,Natural gas & LPG,694.0
+2024,Industry,Other,74.0
+2024,Industry,Petroleum,94.0
+2024,Industry,Renewables,116.0
+2024,Transportation,District heat,0.0
+2024,Transportation,Electricity,61.0
+2024,Transportation,Hard coal,0.0
+2024,Transportation,Lignite,0.0
+2024,Transportation,Natural gas & LPG,2.0
+2024,Transportation,Other,0.0
+2024,Transportation,Petroleum,2274.0
+2024,Transportation,Renewables,116.0

@@ -1,0 +1,561 @@
+Year,Sector,Subsector_EN,CO2_kt
+1990,Agriculture,Agricultural machinery,11359.814812
+1990,Agriculture,Liming,2200.009175
+1990,Agriculture,Other carbonate fertilizers,510.446578
+1990,Agriculture,Urea application,479.997561
+1990,Building,Commerce & services,276217.718382
+1990,Building,Households,137482.245458
+1990,Building,Military,25262.002847
+1990,Industry,Chemical industry,14270.049732
+1990,Industry,Manufacturing fuel,324009.510881
+1990,Industry,Metal production,44416.422829
+1990,Industry,Mineral products manufacturing,41658.083776
+1990,Industry,Other industrial processes,5281.909561
+1990,Traffic,Aviation,2473.310626
+1990,Traffic,Domestic navigation,3226.166527
+1990,Traffic,Railways,3353.856833
+1990,Traffic,Road transport,162594.311704
+1991,Agriculture,Agricultural machinery,9723.602938
+1991,Agriculture,Liming,1986.576097
+1991,Agriculture,Other carbonate fertilizers,473.645646
+1991,Agriculture,Urea application,437.087678
+1991,Building,Commerce & services,283344.711518
+1991,Building,Households,139582.903145
+1991,Building,Military,18148.183952
+1991,Industry,Chemical industry,12598.085897
+1991,Industry,Manufacturing fuel,287787.453064
+1991,Industry,Metal production,43602.427157
+1991,Industry,Mineral products manufacturing,38046.147382
+1991,Industry,Other industrial processes,5243.874885
+1991,Traffic,Aviation,2397.183266
+1991,Traffic,Domestic navigation,3118.382811
+1991,Traffic,Railways,3006.670635
+1991,Traffic,Road transport,167432.579138
+1992,Agriculture,Agricultural machinery,9177.266211
+1992,Agriculture,Liming,1748.964667
+1992,Agriculture,Other carbonate fertilizers,448.82475
+1992,Agriculture,Urea application,427.559467
+1992,Building,Commerce & services,273544.302469
+1992,Building,Households,128022.617263
+1992,Building,Military,14197.00084
+1992,Industry,Chemical industry,12502.716724
+1992,Industry,Manufacturing fuel,266583.499484
+1992,Industry,Metal production,37331.968184
+1992,Industry,Mineral products manufacturing,39259.698037
+1992,Industry,Other industrial processes,5078.657602
+1992,Traffic,Aviation,2420.600225
+1992,Traffic,Domestic navigation,3163.750891
+1992,Traffic,Railways,2932.260066
+1992,Traffic,Road transport,172624.720644
+1993,Agriculture,Agricultural machinery,9603.620988
+1993,Agriculture,Liming,1465.232275
+1993,Agriculture,Other carbonate fertilizers,415.200038
+1993,Agriculture,Urea application,422.135704
+1993,Building,Commerce & services,290179.929021
+1993,Building,Households,120265.540751
+1993,Building,Military,11138.703327
+1993,Industry,Chemical industry,11710.586266
+1993,Industry,Manufacturing fuel,246026.299093
+1993,Industry,Metal production,37956.252323
+1993,Industry,Mineral products manufacturing,39762.572588
+1993,Industry,Other industrial processes,5088.180676
+1993,Traffic,Aviation,2322.736949
+1993,Traffic,Domestic navigation,3139.970197
+1993,Traffic,Railways,2912.90906
+1993,Traffic,Road transport,176976.00889
+1994,Agriculture,Agricultural machinery,9565.15274
+1994,Agriculture,Liming,1324.707695
+1994,Agriculture,Other carbonate fertilizers,402.085939
+1994,Agriculture,Urea application,448.572499
+1994,Building,Commerce & services,284077.074421
+1994,Building,Households,113064.93613
+1994,Building,Military,10538.627633
+1994,Industry,Chemical industry,11783.029742
+1994,Industry,Manufacturing fuel,243019.112836
+1994,Industry,Metal production,40557.79521
+1994,Industry,Mineral products manufacturing,42662.145788
+1994,Industry,Other industrial processes,4347.150657
+1994,Traffic,Aviation,2305.85391
+1994,Traffic,Domestic navigation,3085.948958
+1994,Traffic,Railways,2712.613103
+1994,Traffic,Road transport,173332.84724
+1995,Agriculture,Agricultural machinery,9822.003182
+1995,Agriculture,Liming,1279.742727
+1995,Agriculture,Other carbonate fertilizers,389.494622
+1995,Agriculture,Urea application,458.532905
+1995,Building,Commerce & services,279279.33098
+1995,Building,Households,114577.715422
+1995,Building,Military,8624.552294
+1995,Industry,Chemical industry,13722.912621
+1995,Industry,Manufacturing fuel,243959.006842
+1995,Industry,Metal production,36011.058649
+1995,Industry,Mineral products manufacturing,42406.757042
+1995,Industry,Other industrial processes,4400.46223
+1995,Traffic,Aviation,2415.368331
+1995,Traffic,Domestic navigation,2598.747755
+1995,Traffic,Railways,2619.717839
+1995,Traffic,Road transport,177368.216835
+1996,Agriculture,Agricultural machinery,10882.183214
+1996,Agriculture,Liming,1380.317356
+1996,Agriculture,Other carbonate fertilizers,390.622636
+1996,Agriculture,Urea application,484.769476
+1996,Building,Commerce & services,295304.545105
+1996,Building,Households,132152.583302
+1996,Building,Military,6475.113113
+1996,Industry,Chemical industry,13958.103317
+1996,Industry,Manufacturing fuel,232826.250041
+1996,Industry,Metal production,35500.945129
+1996,Industry,Mineral products manufacturing,40834.683992
+1996,Industry,Other industrial processes,4521.509829
+1996,Traffic,Aviation,2330.053932
+1996,Traffic,Domestic navigation,2412.857536
+1996,Traffic,Railways,2494.895678
+1996,Traffic,Road transport,177740.688986
+1997,Agriculture,Agricultural machinery,9703.849467
+1997,Agriculture,Liming,1480.088065
+1997,Agriculture,Other carbonate fertilizers,377.443477
+1997,Agriculture,Urea application,497.803428
+1997,Building,Commerce & services,284973.109142
+1997,Building,Households,112462.762745
+1997,Building,Military,6209.745435
+1997,Industry,Chemical industry,13780.596182
+1997,Industry,Manufacturing fuel,233649.927799
+1997,Industry,Metal production,38094.837018
+1997,Industry,Mineral products manufacturing,40690.853377
+1997,Industry,Other industrial processes,4499.524745
+1997,Traffic,Aviation,2442.056546
+1997,Traffic,Domestic navigation,2056.897265
+1997,Traffic,Railways,2300.384928
+1997,Traffic,Road transport,178288.220736
+1998,Agriculture,Agricultural machinery,9193.576391
+1998,Agriculture,Liming,1588.237942
+1998,Agriculture,Other carbonate fertilizers,370.602619
+1998,Agriculture,Urea application,524.103905
+1998,Building,Commerce & services,278360.507349
+1998,Building,Households,111955.673531
+1998,Building,Military,6380.963534
+1998,Industry,Chemical industry,14389.825525
+1998,Industry,Manufacturing fuel,230801.168135
+1998,Industry,Metal production,35764.920865
+1998,Industry,Mineral products manufacturing,41559.885156
+1998,Industry,Other industrial processes,4741.316219
+1998,Traffic,Aviation,2443.695024
+1998,Traffic,Domestic navigation,2068.83323
+1998,Traffic,Railways,2163.961951
+1998,Traffic,Road transport,181191.37158
+1999,Agriculture,Agricultural machinery,9304.41949
+1999,Agriculture,Liming,1714.948024
+1999,Agriculture,Other carbonate fertilizers,377.582924
+1999,Agriculture,Urea application,551.5565
+1999,Building,Commerce & services,260439.060894
+1999,Building,Households,106536.756466
+1999,Building,Military,5614.614304
+1999,Industry,Chemical industry,13872.89167
+1999,Industry,Manufacturing fuel,226118.251587
+1999,Industry,Metal production,32111.667085
+1999,Industry,Mineral products manufacturing,41699.892948
+1999,Industry,Other industrial processes,4606.814907
+1999,Traffic,Aviation,2476.537215
+1999,Traffic,Domestic navigation,1809.101176
+1999,Traffic,Railways,2035.114258
+1999,Traffic,Road transport,186172.87225
+2000,Agriculture,Agricultural machinery,8420.166515
+2000,Agriculture,Liming,1695.390896
+2000,Agriculture,Other carbonate fertilizers,366.628321
+2000,Agriculture,Urea application,593.130214
+2000,Building,Commerce & services,267677.170519
+2000,Building,Households,102904.337632
+2000,Building,Military,5258.027392
+2000,Industry,Chemical industry,14893.894615
+2000,Industry,Manufacturing fuel,221444.983964
+2000,Industry,Metal production,41579.458088
+2000,Industry,Mineral products manufacturing,41233.841074
+2000,Industry,Other industrial processes,4126.026797
+2000,Traffic,Aviation,2608.452341
+2000,Traffic,Domestic navigation,1720.918209
+2000,Traffic,Railways,2055.773418
+2000,Traffic,Road transport,182397.57061
+2001,Agriculture,Agricultural machinery,8668.958737
+2001,Agriculture,Liming,1694.285741
+2001,Agriculture,Other carbonate fertilizers,349.01622
+2001,Agriculture,Urea application,621.654524
+2001,Building,Commerce & services,285132.02886
+2001,Building,Households,114148.401704
+2001,Building,Military,4122.423183
+2001,Industry,Chemical industry,14426.576486
+2001,Industry,Manufacturing fuel,219328.618029
+2001,Industry,Metal production,38106.112014
+2001,Industry,Mineral products manufacturing,39141.416843
+2001,Industry,Other industrial processes,4062.144227
+2001,Traffic,Aviation,2529.9361
+2001,Traffic,Domestic navigation,1713.280043
+2001,Traffic,Railways,1892.859754
+2001,Traffic,Road transport,179317.041777
+2002,Agriculture,Agricultural machinery,8361.233391
+2002,Agriculture,Liming,1592.118327
+2002,Agriculture,Other carbonate fertilizers,319.796815
+2002,Agriculture,Urea application,639.953285
+2002,Building,Commerce & services,276215.807579
+2002,Building,Households,113063.594683
+2002,Building,Military,4410.27735
+2002,Industry,Chemical industry,15594.680692
+2002,Industry,Manufacturing fuel,218573.967883
+2002,Industry,Metal production,35242.035983
+2002,Industry,Mineral products manufacturing,37533.02099
+2002,Industry,Other industrial processes,4012.92362
+2002,Traffic,Aviation,2413.150089
+2002,Traffic,Domestic navigation,1635.730947
+2002,Traffic,Railways,1755.00405
+2002,Traffic,Road transport,177470.978113
+2003,Agriculture,Agricultural machinery,8006.241858
+2003,Agriculture,Liming,1568.23968
+2003,Agriculture,Other carbonate fertilizers,312.165427
+2003,Agriculture,Urea application,650.101047
+2003,Building,Commerce & services,295598.402413
+2003,Building,Households,89130.032141
+2003,Building,Military,4894.794555
+2003,Industry,Chemical industry,16304.490374
+2003,Industry,Manufacturing fuel,220503.560979
+2003,Industry,Metal production,40785.655132
+2003,Industry,Mineral products manufacturing,40370.087225
+2003,Industry,Other industrial processes,4190.643365
+2003,Traffic,Aviation,2376.053744
+2003,Traffic,Domestic navigation,1978.895989
+2003,Traffic,Railways,1705.272621
+2003,Traffic,Road transport,166126.434405
+2004,Agriculture,Agricultural machinery,7772.810014
+2004,Agriculture,Liming,1482.471467
+2004,Agriculture,Other carbonate fertilizers,309.776917
+2004,Agriculture,Urea application,634.308976
+2004,Building,Commerce & services,283185.902514
+2004,Building,Households,91971.679281
+2004,Building,Military,4310.117212
+2004,Industry,Chemical industry,15427.43867
+2004,Industry,Manufacturing fuel,218080.504362
+2004,Industry,Metal production,40975.97592
+2004,Industry,Mineral products manufacturing,41577.772954
+2004,Industry,Other industrial processes,4460.274302
+2004,Traffic,Aviation,2345.915502
+2004,Traffic,Domestic navigation,2095.705176
+2004,Traffic,Railways,1610.434087
+2004,Traffic,Road transport,160328.82799
+2005,Agriculture,Agricultural machinery,7514.868121
+2005,Agriculture,Liming,1427.512953
+2005,Agriculture,Other carbonate fertilizers,307.531835
+2005,Agriculture,Urea application,641.094143
+2005,Building,Commerce & services,266464.651387
+2005,Building,Households,104696.929553
+2005,Building,Military,4226.966292
+2005,Industry,Chemical industry,17053.643223
+2005,Industry,Manufacturing fuel,220704.235156
+2005,Industry,Metal production,38575.814136
+2005,Industry,Mineral products manufacturing,39415.680504
+2005,Industry,Other industrial processes,4384.056466
+2005,Traffic,Aviation,2377.334617
+2005,Traffic,Domestic navigation,2232.161541
+2005,Traffic,Railways,1500.043418
+2005,Traffic,Road transport,156357.98896
+2006,Agriculture,Agricultural machinery,7823.971068
+2006,Agriculture,Liming,1438.497236
+2006,Agriculture,Other carbonate fertilizers,285.761207
+2006,Agriculture,Urea application,630.933024
+2006,Building,Commerce & services,264121.233104
+2006,Building,Households,112482.867993
+2006,Building,Military,3754.043107
+2006,Industry,Chemical industry,16168.647821
+2006,Industry,Manufacturing fuel,228405.159826
+2006,Industry,Metal production,39587.772016
+2006,Industry,Mineral products manufacturing,40247.788002
+2006,Industry,Other industrial processes,4412.038611
+2006,Traffic,Aviation,2428.182972
+2006,Traffic,Domestic navigation,2235.883484
+2006,Traffic,Railways,1352.864728
+2006,Traffic,Road transport,161058.70329
+2007,Agriculture,Agricultural machinery,7092.725468
+2007,Agriculture,Liming,1477.132416
+2007,Agriculture,Other carbonate fertilizers,282.912311
+2007,Agriculture,Urea application,647.560309
+2007,Building,Commerce & services,238910.436396
+2007,Building,Households,92280.140514
+2007,Building,Military,3684.236295
+2007,Industry,Chemical industry,16886.16245
+2007,Industry,Manufacturing fuel,239969.606545
+2007,Industry,Metal production,38304.902276
+2007,Industry,Mineral products manufacturing,43143.458395
+2007,Industry,Other industrial processes,4425.2049
+2007,Traffic,Aviation,2503.322719
+2007,Traffic,Domestic navigation,2028.799178
+2007,Traffic,Railways,1309.331701
+2007,Traffic,Road transport,153207.034849
+2008,Agriculture,Agricultural machinery,7585.906145
+2008,Agriculture,Liming,1544.713504
+2008,Agriculture,Other carbonate fertilizers,260.727447
+2008,Agriculture,Urea application,694.628785
+2008,Building,Commerce & services,257892.138742
+2008,Building,Households,94572.529293
+2008,Building,Military,3304.657694
+2008,Industry,Chemical industry,15641.621387
+2008,Industry,Manufacturing fuel,233836.386067
+2008,Industry,Metal production,34410.700049
+2008,Industry,Mineral products manufacturing,39868.163495
+2008,Industry,Other industrial processes,4134.347265
+2008,Traffic,Aviation,2508.984221
+2008,Traffic,Domestic navigation,2246.591416
+2008,Traffic,Railways,1264.800706
+2008,Traffic,Road transport,156875.619286
+2009,Agriculture,Agricultural machinery,7108.500753
+2009,Agriculture,Liming,1521.967756
+2009,Agriculture,Other carbonate fertilizers,267.268512
+2009,Agriculture,Urea application,676.755357
+2009,Building,Commerce & services,245305.845246
+2009,Building,Households,91169.279706
+2009,Building,Military,3452.835655
+2009,Industry,Chemical industry,14125.24523
+2009,Industry,Manufacturing fuel,203801.393619
+2009,Industry,Metal production,24902.82508
+2009,Industry,Mineral products manufacturing,35938.997848
+2009,Industry,Other industrial processes,3946.787599
+2009,Traffic,Aviation,2363.723177
+2009,Traffic,Domestic navigation,1875.195643
+2009,Traffic,Railways,1147.308499
+2009,Traffic,Road transport,152380.005628
+2010,Agriculture,Agricultural machinery,10050.580522
+2010,Agriculture,Liming,2056.019105
+2010,Agriculture,Other carbonate fertilizers,341.435265
+2010,Agriculture,Urea application,943.396986
+2010,Building,Commerce & services,257874.097532
+2010,Building,Households,87136.781826
+2010,Building,Military,3299.515559
+2010,Industry,Chemical industry,15275.615732
+2010,Industry,Manufacturing fuel,224085.351483
+2010,Industry,Metal production,30301.23836
+2010,Industry,Mineral products manufacturing,35098.914332
+2010,Industry,Other industrial processes,4270.020851
+2010,Traffic,Aviation,2348.772911
+2010,Traffic,Domestic navigation,2027.514198
+2010,Traffic,Railways,1167.916603
+2010,Traffic,Road transport,150427.514791
+2011,Agriculture,Agricultural machinery,10535.508024
+2011,Agriculture,Liming,2074.239581
+2011,Agriculture,Other carbonate fertilizers,343.830484
+2011,Agriculture,Urea application,851.467533
+2011,Building,Commerce & services,224960.781171
+2011,Building,Households,89207.925897
+2011,Building,Military,3187.237056
+2011,Industry,Chemical industry,15329.894626
+2011,Industry,Manufacturing fuel,224846.286749
+2011,Industry,Metal production,32539.576632
+2011,Industry,Mineral products manufacturing,38498.765335
+2011,Industry,Other industrial processes,4158.11242
+2011,Traffic,Aviation,2374.528876
+2011,Traffic,Domestic navigation,1890.144323
+2011,Traffic,Railways,1180.872799
+2011,Traffic,Road transport,152562.411545
+2012,Agriculture,Agricultural machinery,10223.876035
+2012,Agriculture,Liming,2237.654812
+2012,Agriculture,Other carbonate fertilizers,335.782465
+2012,Agriculture,Urea application,912.348679
+2012,Building,Commerce & services,239139.036202
+2012,Building,Households,85594.417972
+2012,Building,Military,2611.872137
+2012,Industry,Chemical industry,16138.545051
+2012,Industry,Manufacturing fuel,228460.223388
+2012,Industry,Metal production,29031.510176
+2012,Industry,Mineral products manufacturing,38771.070694
+2012,Industry,Other industrial processes,4272.474293
+2012,Traffic,Aviation,2259.3129
+2012,Traffic,Domestic navigation,1947.817972
+2012,Traffic,Railways,1088.242678
+2012,Traffic,Road transport,151068.817552
+2013,Agriculture,Agricultural machinery,9774.59026
+2013,Agriculture,Liming,2290.206086
+2013,Agriculture,Other carbonate fertilizers,301.616658
+2013,Agriculture,Urea application,844.205941
+2013,Building,Commerce & services,245439.233346
+2013,Building,Households,91633.950103
+2013,Building,Military,2634.937788
+2013,Industry,Chemical industry,16108.147773
+2013,Industry,Manufacturing fuel,229878.453888
+2013,Industry,Metal production,30218.086885
+2013,Industry,Mineral products manufacturing,37896.063665
+2013,Industry,Other industrial processes,4216.317343
+2013,Traffic,Aviation,2041.338671
+2013,Traffic,Domestic navigation,1943.771129
+2013,Traffic,Railways,1106.85119
+2013,Traffic,Road transport,155417.791371
+2014,Agriculture,Agricultural machinery,10998.732189
+2014,Agriculture,Liming,2543.736129
+2014,Agriculture,Other carbonate fertilizers,313.41058
+2014,Agriculture,Urea application,994.677647
+2014,Building,Commerce & services,212377.210676
+2014,Building,Households,88654.464807
+2014,Building,Military,2546.673192
+2014,Industry,Chemical industry,12314.622182
+2014,Industry,Manufacturing fuel,226380.933393
+2014,Industry,Metal production,33485.002528
+2014,Industry,Mineral products manufacturing,38776.906102
+2014,Industry,Other industrial processes,4065.669808
+2014,Traffic,Aviation,2057.790037
+2014,Traffic,Domestic navigation,1968.131622
+2014,Traffic,Railways,987.327538
+2014,Traffic,Road transport,154118.307753
+2015,Agriculture,Agricultural machinery,10310.914079
+2015,Agriculture,Liming,2443.538874
+2015,Agriculture,Other carbonate fertilizers,295.760699
+2015,Agriculture,Urea application,1014.828479
+2015,Building,Commerce & services,216473.152987
+2015,Building,Households,89088.266148
+2015,Building,Military,2442.752331
+2015,Industry,Chemical industry,10482.712309
+2015,Industry,Manufacturing fuel,230075.136391
+2015,Industry,Metal production,31774.858238
+2015,Industry,Mineral products manufacturing,36212.569277
+2015,Industry,Other industrial processes,3763.477995
+2015,Traffic,Aviation,2137.074285
+2015,Traffic,Domestic navigation,1943.227909
+2015,Traffic,Railways,1061.573697
+2015,Traffic,Road transport,161302.640071
+2016,Agriculture,Agricultural machinery,10369.757401
+2016,Agriculture,Liming,2390.596391
+2016,Agriculture,Other carbonate fertilizers,286.748565
+2016,Agriculture,Urea application,1035.554177
+2016,Building,Commerce & services,226833.743325
+2016,Building,Households,70959.961441
+2016,Building,Military,2567.393875
+2016,Industry,Chemical industry,10478.902753
+2016,Industry,Manufacturing fuel,230695.087336
+2016,Industry,Metal production,34187.220541
+2016,Industry,Mineral products manufacturing,35718.648153
+2016,Industry,Other industrial processes,3775.39425
+2016,Traffic,Aviation,2146.031756
+2016,Traffic,Domestic navigation,1863.807112
+2016,Traffic,Railways,1098.40768
+2016,Traffic,Road transport,163581.01444
+2017,Agriculture,Agricultural machinery,9495.292502
+2017,Agriculture,Liming,2421.927869
+2017,Agriculture,Other carbonate fertilizers,266.283064
+2017,Agriculture,Urea application,899.41686
+2017,Building,Commerce & services,216397.790923
+2017,Building,Households,71828.042297
+2017,Building,Military,2053.346264
+2017,Industry,Chemical industry,9992.947871
+2017,Industry,Manufacturing fuel,224327.641732
+2017,Industry,Metal production,38449.748492
+2017,Industry,Mineral products manufacturing,35483.486883
+2017,Industry,Other industrial processes,3709.354685
+2017,Traffic,Aviation,2071.833034
+2017,Traffic,Domestic navigation,1858.952114
+2017,Traffic,Railways,907.21943
+2017,Traffic,Road transport,164431.867992
+2018,Agriculture,Agricultural machinery,9497.205301
+2018,Agriculture,Liming,2545.114677
+2018,Agriculture,Other carbonate fertilizers,251.981656
+2018,Agriculture,Urea application,752.370494
+2018,Building,Commerce & services,215288.039095
+2018,Building,Households,61760.810689
+2018,Building,Military,1836.681408
+2018,Industry,Chemical industry,9764.200561
+2018,Industry,Manufacturing fuel,214123.074199
+2018,Industry,Metal production,34978.345352
+2018,Industry,Mineral products manufacturing,34935.939527
+2018,Industry,Other industrial processes,3566.904928
+2018,Traffic,Aviation,2064.483896
+2018,Traffic,Domestic navigation,1911.923673
+2018,Traffic,Railways,759.904137
+2018,Traffic,Road transport,164734.387882
+2019,Agriculture,Agricultural machinery,9084.520691
+2019,Agriculture,Liming,2446.64513
+2019,Agriculture,Other carbonate fertilizers,233.064465
+2019,Agriculture,Urea application,597.307407
+2019,Building,Commerce & services,202434.517844
+2019,Building,Households,55380.404103
+2019,Building,Military,1969.709169
+2019,Industry,Chemical industry,8873.061744
+2019,Industry,Manufacturing fuel,195182.690841
+2019,Industry,Metal production,29593.686969
+2019,Industry,Mineral products manufacturing,32135.581778
+2019,Industry,Other industrial processes,3239.603954
+2019,Traffic,Aviation,2115.998738
+2019,Traffic,Domestic navigation,1902.288036
+2019,Traffic,Railways,856.854941
+2019,Traffic,Road transport,162603.021224
+2020,Agriculture,Agricultural machinery,9070.262441
+2020,Agriculture,Liming,2326.529968
+2020,Agriculture,Other carbonate fertilizers,214.688767
+2020,Agriculture,Urea application,501.550723
+2020,Building,Commerce & services,189793.506052
+2020,Building,Households,49404.192624
+2020,Building,Military,1557.234755
+2020,Industry,Chemical industry,8325.084039
+2020,Industry,Manufacturing fuel,179792.940511
+2020,Industry,Metal production,24482.613993
+2020,Industry,Mineral products manufacturing,29709.705471
+2020,Industry,Other industrial processes,3012.056577
+2020,Traffic,Aviation,946.70645
+2020,Traffic,Domestic navigation,1769.937153
+2020,Traffic,Railways,854.617841
+2020,Traffic,Road transport,145415.21674
+2021,Agriculture,Agricultural machinery,9480.91766
+2021,Agriculture,Liming,2321.253995
+2021,Agriculture,Other carbonate fertilizers,205.53125
+2021,Agriculture,Urea application,465.156061
+2021,Building,Commerce & services,196178.366232
+2021,Building,Households,55159.973329
+2021,Building,Military,2099.743491
+2021,Industry,Chemical industry,8438.53871
+2021,Industry,Manufacturing fuel,192863.324416
+2021,Industry,Metal production,27770.421178
+2021,Industry,Mineral products manufacturing,31613.14237
+2021,Industry,Other industrial processes,3273.35452
+2021,Traffic,Aviation,734.821291
+2021,Traffic,Domestic navigation,1639.624926
+2021,Traffic,Railways,883.877089
+2021,Traffic,Road transport,144869.641987
+2022,Agriculture,Agricultural machinery,9414.144388
+2022,Agriculture,Liming,2362.064426
+2022,Agriculture,Other carbonate fertilizers,186.49251
+2022,Agriculture,Urea application,434.60691
+2022,Building,Commerce & services,191650.634934
+2022,Building,Households,55564.098249
+2022,Building,Military,1960.412553
+2022,Industry,Chemical industry,7150.097335
+2022,Industry,Manufacturing fuel,186021.318665
+2022,Industry,Metal production,25836.608935
+2022,Industry,Mineral products manufacturing,31226.159214
+2022,Industry,Other industrial processes,3540.83249
+2022,Traffic,Aviation,1076.219188
+2022,Traffic,Domestic navigation,1396.277873
+2022,Traffic,Railways,845.241657
+2022,Traffic,Road transport,149177.835853
+2023,Agriculture,Agricultural machinery,9075.644125
+2023,Agriculture,Liming,2257.586402
+2023,Agriculture,Other carbonate fertilizers,165.428931
+2023,Agriculture,Urea application,414.727582
+2023,Building,Commerce & services,164233.52437
+2023,Building,Households,48266.129771
+2023,Building,Military,1733.519111
+2023,Industry,Chemical industry,6268.146291
+2023,Industry,Manufacturing fuel,161643.640527
+2023,Industry,Metal production,23043.131103
+2023,Industry,Mineral products manufacturing,24627.745122
+2023,Industry,Other industrial processes,2831.144908
+2023,Traffic,Aviation,1125.082599
+2023,Traffic,Domestic navigation,1432.947062
+2023,Traffic,Railways,807.392489
+2023,Traffic,Road transport,145840.225623
+2024,Agriculture,Agricultural machinery,9247.327976
+2024,Agriculture,Liming,2083.190354
+2024,Agriculture,Other carbonate fertilizers,164.480465
+2024,Agriculture,Urea application,375.072625
+2024,Building,Commerce & services,154863.117129
+2024,Building,Households,42790.08428
+2024,Building,Military,1714.2306
+2024,Industry,Chemical industry,7528.110499
+2024,Industry,Manufacturing fuel,158292.322437
+2024,Industry,Metal production,23323.240345
+2024,Industry,Mineral products manufacturing,22416.847215
+2024,Industry,Other industrial processes,2799.752389
+2024,Traffic,Aviation,1134.524947
+2024,Traffic,Domestic navigation,1469.022197
+2024,Traffic,Railways,784.239668
+2024,Traffic,Road transport,143512.183664
